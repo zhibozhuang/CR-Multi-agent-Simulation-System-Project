@@ -11,7 +11,7 @@ The main materials are organized as appendices:
 - **Appendix 2 – Three Simulation Conversations**  
   Full text transcripts of three demo conversations in different interaction formats (confrontation, moderated group discussion, and user-led Q&A).
 
-- **Appendix 3 – Focus Group Participants (N=17)**  
+- **Appendix 3 – Focus Group Participants**  
   Participant demographic summary used for the focus group evaluation.
 
 - **Appendix 4 – Focus Group Codebook**  
