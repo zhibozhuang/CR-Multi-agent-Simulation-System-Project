@@ -9,10 +9,10 @@ The main materials are organized as appendices:
   Persona specifications for the simulated agents (historically grounded roles plus non-historical roles such as a moderator and a contemporary user), including background attributes, constraints, and interaction guidelines.
 
 - **Appendix 2: 60 Simulation Conversations**  
-  Full text transcripts of 60 simulation runs (20 runs per room) generated using ChatGPT, across three conversation rooms: Researcher vs. Red Guard confrontation, Intergenerational Understanding group discussion, and User vs. Sent-Down Youth Q&A.
+  Full text transcripts of 60 simulation runs (20 runs per room) generated using AutoGen with the GPT-4.1 API, across three conversation rooms: Researcher vs. Red Guard confrontation, Intergenerational Understanding group discussion, and User vs. Sent-Down Youth Q&A.
 
 - **Appendix 3: Cross-Model Consistency Evaluation**  
-  Quantitative evaluation results assessing the consistency of simulation outputs across three large language models (ChatGPT, Claude, and DeepSeek-Chat).
+  Quantitative evaluation results assessing the consistency of simulation outputs across three large language models (GPT-4.1, Claude Sonnet 4-6, and DeepSeek-Chat), all run via AutoGen.
 
 - **Appendix 4: Focus Group Participants**  
   Participant demographic summary used for the focus group evaluation.
