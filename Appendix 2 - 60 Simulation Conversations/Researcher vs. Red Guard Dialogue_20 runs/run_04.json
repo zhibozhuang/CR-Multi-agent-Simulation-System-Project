@@ -1,0 +1,52 @@
+{
+  "run_id": 4,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:17:02.764894",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I can still see the black sash around my mother’s shoulders, the way it cut into her skin as she shuffled down the alley. She was over seventy, made to leave Beijing because someone decided her father’s land counted for more than her decades of work. I watched her hands tremble as she tried to tie that sash, and I was told to be grateful she was only being sent away, not paraded in front of the entire courtyard. You—people like you—stood on street corners, shouting, laughing, pointing at old women until someone confessed their family background. I saw a Red Guard stop a bus, refusing to let a young man give his seat to an old woman until he checked her “class.” You turned suspicion into a public sport. You made us afraid to be kind. My mother never looked me in the eye again after that. You did that. You made her ashamed to exist."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "I remember those sashes—thick, rough cloth, the writing done with heavy black ink. I was the one who brushed those characters, sometimes with my own hands shaking, sometimes with a sense of power I’d never felt before. I told myself it was about justice, that if someone had landlord blood, they had to be marked. I remember standing at the mouth of a hutong, holding a megaphone, calling out names from a list we’d written in a notebook. Old women, old men, sometimes people who could barely walk. I saw the way they looked at the ground, how their children hovered nearby, not daring to help. I did laugh, sometimes, but it wasn’t because I hated them. It was because I felt nervous, exposed, and I needed to show the others that I was loyal—that I wasn’t secretly soft.\n\nI remember the bus stops. I remember blocking the doors, checking armbands, asking for work unit letters. I saw people hesitate before giving up their seats, afraid that a simple gesture might be called “bourgeois sympathy.” I felt proud when I caught someone out, when I made them explain themselves. It was a way to prove I belonged. But I saw the faces afterward—red from shame, eyes darting away. I told myself it was necessary. Now, thinking back, I see your mother’s hunched back in a line of others. I see the way people stopped speaking to each other, how neighbors became strangers. I was part of that. I can’t pretend I was just following orders. I made those choices, one after another, because I wanted to be seen as pure. I didn’t think about the old women, or about what it would do to their families. I only thought about my own safety, my own standing. And yes, I made people ashamed to exist. That’s true."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You want to talk about “purity”—let me tell you what that cost. I used to come home and find my children whispering behind the bedroom door, hiding their schoolbooks under the mattress. My daughter stopped speaking at the dinner table. She was afraid someone might overhear the wrong word through the window. That silence grew between us, thick as fog. I learned to hide my own university textbooks, the ones with foreign names on the covers, in the coal bin. I started locking away anything that might mark us as “intellectuals”—even a fountain pen felt dangerous. \n\nOne afternoon, I watched a girl from our compound, a girl barely out of school, dragged into the courtyard with a pair of filthy shoes around her neck. She had written a letter to someone, that was her crime. The children—your “little Red Guards”—spat at her, called her rotten, and someone cut off her braids with rusty scissors. I saw her mother standing at the edge, fists clenched, unable to move. That night, my hands shook so badly I couldn’t hold my chopsticks. \n\nYou say you felt nervous, exposed. I lived every day waiting for a knock at the door, for someone to decide my family was next. You did that. You turned children into informants and parents into cowards. You made our homes into cages. Do you remember the faces of the people who watched you, terrified to breathe too loudly? Or did you only see your own reflection in their fear?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "I remember the faces. I remember the girl with the shoes around her neck—maybe not the exact one you’re talking about, but I saw it happen more than once. I remember a courtyard, the sour smell of sweat and fear, the way the crowd pressed in, silent at first and then suddenly loud, shouting slogans. I was there holding the scissors once, not for shoes but for hair. The blade was dull, sticky with old oil. The girl screamed, and I felt my own stomach twist, but I kept going because if I stopped, the others would turn on me. I saw mothers at the edge, faces white, hands shaking. I told myself they deserved it because that’s what we were told, but I saw the truth in their eyes—just fear, just helplessness.\n\nAt home, I started hiding things too. My father had Soviet textbooks, and I buried them in the garden at night, dirt under my fingernails, heart pounding every time a dog barked. I heard my parents whispering late, voices barely above a breath. My mother stopped speaking to me for a while—she was afraid of me, her own son. I knew what it was to live in a cage, but I was the one building the bars for others.\n\nI remember the knock at the door, the pounding that made everyone freeze. Sometimes I was the one knocking. I told myself I was doing something righteous, but the truth is, I was terrified all the time. I watched people’s eyes, looking for any sign they might betray me to the next group. I saw myself in their fear, and sometimes I hated them for making me feel weak. I can’t excuse it. I can’t say I didn’t see what it did to people. I saw it, and I kept going. I was afraid of being next, and that fear made me cruel."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You say you were afraid of being next, but you still had a choice. I watched men who had fought the Japanese—real heroes—sit in silence at struggle meetings, refusing to shout, refusing to raise their fists, even as you and your friends screamed in their faces. They were veterans, but you called them traitors. I remember standing at the back of the auditorium at Beihang, watching a woman—dignified, composed, a leader’s wife—forced to wear a necklace of ping-pong balls and a tall dunce cap. I saw spit run down her cheek as you paraded her, and I saw the way she looked at the students: not hatred, not fear, just disbelief. \n\nAfter that, I stopped trusting anyone. At work, we didn’t talk about science anymore. We read posters and wrote confessions until our hands cramped. The lab was silent except for the scratching of pens and the sound of people crying in the hallway. Every day I cycled past posters with my colleagues’ names, accusations scrawled in red. I stopped sleeping—every creak of the gate made my heart race. My children learned to keep secrets, to never mention relatives, to never ask questions. My mother died in her village, alone. I never saw her again. \n\nYou say you hated people for making you feel weak. I hate what you did because it made me ashamed to be a father, a son, a friend. You broke the bonds that made us human. You made trust impossible. You built a world where kindness was a risk and silence was the only safety. That is what you left behind."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "You talk about the woman with the ping-pong balls and the dunce cap—I remember scenes like that with sickening clarity. I was the one who tied a signboard around a teacher’s neck, her hands trembling so badly she couldn’t hold the string. I made her kneel on broken bricks while people spat and jeered. There was a moment—always a moment—when the person looked up, not with fear, but with a kind of stunned grief, as if they couldn’t believe this was real. That look haunted me. Sometimes I still see it when I close my eyes at night.\n\nYou say some people refused to shout or raise their fists. I envied their courage, but in the heat of those meetings, I resented them too. Their silence made my own shouting feel hollow. I remember the taste in my mouth after a struggle session—bitter, metallic, my throat raw from yelling slogans I barely believed. I was afraid to stop. I’d seen what happened to those who stood back: they were branded as sympathizers, sometimes dragged up next. I chose not to risk it. I chose to keep shouting, to keep my hands moving, to keep my own name off the posters.\n\nWhen I hear how you describe your lab—the silence, the confessions, the crying in the hallway—it’s not unfamiliar. After my father was labeled, our home was just as silent. My mother stopped playing the radio. My father stopped telling stories about Yan’an. We ate in silence, chopsticks clattering, nobody daring to speak first. I hid my own fear by becoming the loudest in the group, the quickest to accuse. I thought if I could just keep moving, keep acting, I’d be safe. But I wasn’t. I lost my family’s trust, and I lost my own sense of who I was. I can’t undo what I did. I can’t give you back your mother, or your peace. All I can do is remember every detail, every face, and live with the knowledge that I helped build that world of suspicion and fear. I carry it with me. It never leaves."
+    }
+  ]
+}

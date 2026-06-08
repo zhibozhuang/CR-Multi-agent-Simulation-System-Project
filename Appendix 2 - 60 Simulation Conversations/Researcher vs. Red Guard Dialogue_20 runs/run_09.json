@@ -1,0 +1,52 @@
+{
+  "run_id": 9,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:21:08.880501",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember standing in the courtyard of my work unit, half-hungry, surrounded by your big-character posters plastered on every wall. My hands shook as I read them out loud, forced to denounce people I respected. You and your friends barged into our offices, tore up research notes, and made us parade around with humiliating signs hung from our necks. My mother, a frail old woman, was made to wear a black sash and sent away—her only crime was being born to the wrong family. I watched her leave, clutching a small bag, her back bent not just from age but from shame you forced on her. You did this. You turned my home into a place of fear, where we whispered at dinner and hid books under floorboards. I want to know—when you laughed and shouted as you dragged people to the stage, did you ever see us as human beings at all?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "I remember the courtyard—how the air felt thick with tension, how every sound seemed too loud. When we stormed in, I was the one holding the list, reading out names, and I saw the fear in your faces. I didn’t laugh. Not then. My voice shook, too, though I tried to hide it. I shouted because I was afraid if I didn’t, someone would turn on me next. When we made you parade with those signs, I forced myself not to look in your eyes. I stared at the ground or at the placards swinging from your necks. I told myself you were enemies, but the truth is, I recognized your fear because I felt it, too.\n\nWhen your mother was made to wear that sash, I was there. I remember how small she looked, how her hands trembled as she tried to keep her bag from slipping. I didn’t touch her, but I didn’t stop it, either. I watched as she was sent away—one more name crossed off the list. I told myself it was for the revolution, that we were making a new world, but in that moment all I saw was an old woman who could barely walk.\n\nI destroyed research notes with my own hands. I tore pages, scattered them on the floor, and felt a sick satisfaction for a moment—like I was powerful. But later, when I saw the empty desks and the silence in the offices, I felt hollow. I can’t say I saw you as human beings then. I saw you as obstacles, as threats—because that’s what I was told to see. But the truth is, when I lay awake at night, I remembered your faces. I remembered the way your mother’s back bent under the weight of that sash. I can’t forget it now, no matter how much I want to."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "I still hear the shouts echoing in my head. I remember the day you made that girl—barely more than a child—walk around the compound with a pair of filthy shoes strung around her neck. She had done nothing except have a rumor whispered about her. You laughed as she stumbled, and the children joined in, throwing stones. I watched from my window, clutching my own shoes, terrified you’d turn on me next. You call it fear, but you had the power. You got to go home and eat, while we sat in silence, afraid even to light a lamp at night in case someone saw shadows and reported us for “bourgeois habits.” You destroyed the trust between neighbors. Even at home, my children asked, “Will you be taken away?” I had no answer for them. You did that. You made us hide our family photos, burn letters, speak in code. I want to know if you ever think about how you poisoned ordinary life—if you ever understood that you weren’t just tearing up papers, you were tearing up people."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "I remember the shoes. I remember the girl—her hair plastered to her forehead, sweat and tears mixing on her cheeks. I didn’t start that rumor, but I was the one who tied the shoes together and hung them around her neck. I told her to keep walking, louder, so everyone could see. When the children started throwing stones, I shouted at them to stop—once, maybe twice—but my voice was weak, and I let it happen. I did laugh, not because I found it funny, but because I was desperate to blend in with the others. I felt a surge of relief every time the crowd’s attention fixed on someone else, because it meant I was safe for another day.\n\nAt night, I went home to my own family, but there was no comfort. My father, once respected, sat in the dark, staring at the floor. My mother hid her Russian books in a pillowcase, buried under old clothes. We whispered, too. I knew the fear you’re talking about—it seeped into my house as well, turning us against each other. My little brother stopped speaking to me after he saw me drag a teacher by the arm. He looked at me like I was a stranger.\n\nI did have power in those moments, and I abused it. When I searched people’s homes, I opened drawers, rifled through letters, held up photographs and decided which ones to burn. I saw the way people’s hands shook as they watched me touch their lives. I told myself it was just stuff, just paper and ink. But I can’t forget the look on a woman’s face as I tossed her wedding photo on the pile, or the way a boy clung to his father’s arm when we took him away for questioning.\n\nI poisoned ordinary life, yes. I see that now. I didn’t understand it then—not fully. I thought I was tearing down old ideas, but I was tearing apart families, friendships, the quiet things that make life bearable. I carry that with me. It doesn’t go away. Even now, when I see old shoes left at a doorway, I think of her, and of all the things I can’t undo."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You say you carry it with you, but I still carry it in my body. My hands sweat when I hear shouting in the street, even now. At the market, I flinch if someone raises their voice. My children learned to keep secrets before they learned to read. My son still asks why I hid his grandfather’s medals, why I burned his drawings—because they looked “Western.” I had to destroy my own child’s pride, just to keep him safe from you.\n\nYou talk about searching homes. I remember the night you all hammered at our door, boots thudding on the concrete, flashlights blinding us in our own hallway. You rifled through our drawers, dumped rice on the floor, smashed a porcelain vase my father had given me. You found a letter from a friend overseas and waved it in my face. “Spy!” you shouted, and the neighbors pressed against their doors, listening. After you left, my husband looked at me like I was a stranger, too. You didn’t just poison life—you made us suspicious of each other, even in bed, even in sleep.\n\nYou say you couldn’t forget. Good. Because I couldn’t escape it. I still can’t. So tell me: when you see your own hands, do you remember what they did, or do you just try to wash them clean?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "I see my hands, and I remember exactly what they did. I can still feel the weight of that flashlight, the slick grip from my sweating palms as I swung it into corners, looking for hidden books, old passports, anything that could be used against you. I remember the sound of boots on your floor, the crack of that vase—blue and white, I think—shattering. I remember the rice scattering, the smell of dust and fear mixing in the air. I remember holding up that letter and yelling “Spy!”—my voice breaking, not from anger, but from the strange thrill and terror of being the accuser, not the accused.\n\nAfterwards, my hands shook. I picked at the skin around my nails until they bled. I’d sit in the dark, staring at my fingers, wondering if I’d ever feel clean again. I tried to scrub the ink stains from making posters, the sweat, the grime, but it never really left. Even now, when I reach for a drawer or a cupboard, sometimes I hesitate, as if I’m about to find something dangerous, as if I’m about to smash something precious again.\n\nYou say you couldn’t escape it. I didn’t, either. I tried to run, once—hid my own registration card, slept in alleys, begged a friend to let me stay in his storage room so I wouldn’t be sent away. I thought if I just kept moving, I could outrun what I’d done. But every time I saw a mother clutching her child, or heard footsteps in a hallway at night, it all came back.\n\nI won’t pretend I’m innocent. I did those things. I made you and your family live in fear. I broke things that mattered, things I didn’t even understand. My hands did it. I see them every day. And no matter how many times I wash them, the memory stays."
+    }
+  ]
+}

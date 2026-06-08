@@ -1,0 +1,52 @@
+{
+  "run_id": 12,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:23:39.271993",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember standing on the Number 5 bus, clutching the overhead rail, when a group of you stopped the bus in its tracks. You pointed at an old woman—her hands shaking, her back bent, her eyes already full of fear—and demanded no one offer her a seat until she declared her family background. You barked questions at her like she was a criminal. When she stammered “landlord’s family,” you forced her to stand, swaying with every lurch of the bus, while you laughed and nodded at each other. I watched my own hands tremble, useless at my sides. I thought of my mother, forced out of the city with a black sash around her neck, all because of her birth. You did that. You turned age and dignity into crimes. You made us all complicit, silent, ashamed. I want to know: when you saw her clutching the pole, did you feel powerful, or did you just feel nothing at all?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "I remember scenes like that—on buses, in classrooms, in the street. I remember the way people would freeze when we walked in, the way eyes dropped to the floor. On that bus, I was the one who stood in front of the old woman, holding my armband out so everyone could see it. I did shout at her. I demanded to know her class background, and when she said “landlord,” I told her to stand and not take a seat meant for the people. I remember the way her body shook, how she tried to steady herself with one hand on the rail, her knuckles white.\n\nDid I feel powerful? In that moment, yes. I felt a rush—like I finally mattered, like I was on the right side of history. But it was a shallow kind of power. I also felt watched, even by my own friends. If I hesitated, if I showed any softness, I’d be questioned too. So I barked louder. I laughed, even if it sounded hollow. I remember the silence from everyone else, the way no one met my eyes. It made me angry, made me want to push further. I didn’t think about her as someone’s mother or grandmother. I saw the label first—“landlord.” That’s what we were trained to see.\n\nNow, when I remember her standing there, I see her age, the sweat on her forehead, the way she looked straight ahead and never pleaded. I don’t know if I felt nothing—maybe I forced myself not to feel. But I can’t forget her face. It’s not pride I feel now. It’s something closer to shame, but also confusion about who I became in that uniform."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You talk about uniforms and armbands, about feeling watched. Let me tell you what it was like to be watched by you. Every morning, I walked down the alley to work, and I could feel eyes on my back—neighbors, children, even the janitor, all looking to see if I would be next. I stopped wearing my good shoes, I hid my family photos, I tore up letters from relatives overseas. My children learned to keep their voices low at dinner. My daughter, just a child, asked me if she should cut off her braid so no one would notice her at school. She was afraid of children with scissors, afraid of being dragged into the courtyard and shamed.\n\nYou made us live in a state of permanent suspicion. You did not just humiliate strangers on buses—you made us betray our own families, teach our children to lie, to hide, to never trust. I still wake up in the night when I hear footsteps in the corridor. My hands sweat when someone knocks at the door. You say you felt powerful for a moment, but you left us with years of fear. You turned our homes into prisons. How do you expect anyone to look at you and not see the person who taught their children to be afraid of their own neighbors?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "You talk about fear in the home—I saw it, but I never let myself think about what it meant. When we came to search apartments, I remember the silence before we knocked. I can still smell the dust in the stairwells, see the way curtains moved as people peeked out. We’d bang on the door, and you could hear someone inside scrambling, hiding things under floorboards or behind loose bricks. Sometimes I’d see children pressed against their mothers, wide-eyed, clutching at their sleeves. I didn’t care then—if anything, I thought it proved we were right, that you had something to hide.\n\nI remember one house search, we found a family photo—everyone dressed in Western suits, a letter from Hong Kong tucked behind the frame. I held it up and read it aloud, making the husband kneel while his wife sobbed. I dumped their drawers on the floor, kicked through their shoes, ordered the children to stand in the corner. I remember the way the youngest girl kept her head down, her braid trembling. I told her to look up, to answer questions about her father’s “reactionary” past. She stuttered, and I called her a liar. I saw how the mother looked at me—not with anger, but with something hollow, like she’d already left her body.\n\nI can’t undo what I did. I can’t tell you it was just the uniform or the slogans. I made choices, and I believed in what I was doing. I wanted to prove myself, to those above me and to my own friends. I wanted to be safe, to not be the next target. But I also wanted to see fear in your eyes, because it made me feel like I had control over something, even if it was just for a moment. Now, when I hear footsteps in a hallway, I think of all the doors I hammered on, all the families I forced to kneel. I don’t expect forgiveness. I don’t expect you to see me as anything but a threat. I still see that girl’s braid in my dreams, and I don’t know how to make it disappear."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You say you remember the braid. I remember the silence after you left. My daughter wouldn’t speak for days. She wouldn’t eat. She flinched when I touched her shoulder. At night, she’d wet the bed, and I’d have to wash the sheets in secret, terrified the neighbors would see and start rumors. My son asked me if I was going to disappear too. I told him no, but I was lying—I had no idea what would happen to me, to any of us. My mother, alone in a village, wrote me letters I was too afraid to keep. I burned them in the stove, watching the smoke curl up, thinking maybe if I destroyed the evidence, you would leave us alone.\n\nYou didn’t just break into our homes. You broke something inside us. I used to trust people, used to believe in friendship, in neighbors. Now, even decades later, I jump when someone calls my name from behind. I can’t look at group photos from those years. I can’t listen to patriotic songs without tasting bile. You took away more than objects. You took away the feeling that home meant safety. Even now, sitting across from you, my hands are shaking. Do you feel that? Do you understand that kind of damage? Or do you only remember the braid, not the years of silence that followed?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "I remember more than the braid. I remember the aftermath, too, though I tried to bury it for years. After a raid or a struggle session, I’d walk home through alleys littered with torn-up letters, scraps of photographs, sometimes even children’s toys thrown out in the rush to hide anything “suspicious.” I remember the way the city felt colder, emptier. People stopped greeting each other. I’d see neighbors who used to play chess together now crossing the street to avoid each other. I’d see doors shut before I even reached the landing.\n\nAt night, after those house searches, I couldn’t sleep. I’d lie awake listening to my own parents whispering in the next room, afraid for my father—he’d been labeled a “reactionary academic authority” by people like me, even though he’d once been celebrated. My mother started locking our door from the inside, even though I was the one wearing the armband. I saw how quickly trust disappeared, even in my own family. I saw my father’s hands shake when he thought he was alone. I knew I was part of that, even if I never searched my own home.\n\nYou talk about years of silence—I lived inside that silence, too, after the shouting was over. I tried to fill it with slogans, with more action, but it always came back: the emptiness, the suspicion, the sense that nothing would ever be normal again. Even when I joined the army, even when I tried to build a new life, I carried that with me. I can’t listen to those old songs either. When I hear them, I taste blood and dust, and I see faces turned away.\n\nI don’t know what I expect from you. I can’t give you back what I took. I can only tell you that I see the damage, and I know I was part of it. It’s not enough. But it’s what’s left."
+    }
+  ]
+}

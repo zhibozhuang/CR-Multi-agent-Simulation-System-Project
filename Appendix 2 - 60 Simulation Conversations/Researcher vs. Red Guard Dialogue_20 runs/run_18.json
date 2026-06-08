@@ -1,0 +1,52 @@
+{
+  "run_id": 18,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:28:52.987456",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember the day my mother was forced out of our home. She was seventy, her back already bent, hands shaking as she packed what little she could carry. You and your friends stood outside our gate, shouting \"black element!\" and waving those red armbands like you were gods. You made her wear a black sash, as if humiliation could rewrite her life. I watched her shuffle onto the bus, head down, and when someone tried to offer her a seat, a Red Guard stopped them—demanded to know her background first. That's what you did: you turned decency into a crime, made suspicion the rule. My mother never came back. You did that. And when I walked through my own courtyard after, neighbors looked away, afraid to be seen talking to me. I still hear the silence at dinner, the way my children asked if we were next. Tell me—did you ever feel the weight of that silence, or were you too busy tearing down the next \"old thing\"?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "You want to know if I felt the weight of that silence. I remember that kind of silence, but not in the way you describe. I remember it at home, after I came back from raids like the one at your house. My father would sit at the table, not looking at me. My mother would clear away the dishes without a word. I could hear the neighbors through the wall, whispering about whose turn it would be next, whether the Red Guards would come for them. But when I was outside, with the armband on, I felt something else—fear, yes, but also a kind of numbness. We shouted slogans so loudly to drown out the doubt inside. When we stood at your gate, listing your mother’s “crimes,” I didn’t see a seventy-year-old woman. I saw the label: “black element.” That was the only thing that mattered in that moment, because if I hesitated, if I showed sympathy, someone in my own unit would report me. I remember the look on your mother’s face as she climbed onto the bus—her lips pressed tight, refusing to cry. I told myself I was doing something righteous, that I was on the right side. But later, when I tried to sleep, I’d see faces like hers. I’d hear the way people stopped talking when I passed. I thought I was remaking the world, but I was also making myself into someone I didn’t recognize. I can’t give you back your mother, and I can’t erase what I did at your gate. I still see her in my mind, moving slowly, clutching that black sash as if it burned her skin."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You talk about numbness, but I remember every sensation. The grit of the posters under my fingers, my pulse thudding while I copied down confessions that weren’t mine. I stopped trusting my own hands. I had to hide my father’s books—science books, nothing political—because you came room by room, searching for “poisonous weeds.” I watched you dump them into a pile in the courtyard, laughing, and then set them on fire. That smell—burning paper, glue, leather—still makes me sick. My children saw it too. They asked if their grandfather’s words were dangerous, if reading made us bad. You did that. You turned knowledge into something dirty. I had to teach my children to hide what they read, to lie about what they loved. Even now, decades later, I flinch when someone knocks at the door. Do you know what it’s like to live with your heart racing every time you hear footsteps in the hall? Did you ever stop to think what happened to the people whose lives you smashed, after you left the courtyard and the posters peeled off the walls?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "You want to know if I ever thought about what happened after we left. I did, but not right away. At the time, when we set fire to those books, I remember the way the flames danced in the dusk, the way the smoke curled up and stung my nose. Some of us cheered, but I couldn’t force myself to laugh with them. I remember the faces at the windows, people peering out from behind curtains, afraid to be seen. I remember one of your neighbors—an old man—standing in the doorway, clutching a dictionary, refusing to give it up. One of the girls in my group yanked it from him and tossed it onto the fire. I didn’t stop her. I just stood there, feeling my own hands sweat, telling myself it was necessary.\n\nI didn’t think about you or your children then. I thought about not being the next target. I thought about the time I hesitated at another house—just for a second—and one of my classmates accused me of “softness.” After that, I became harder. I poured ink on a teacher’s head, watched it drip down her face, just to prove I belonged. I remember the sound of the posters being slapped onto walls, the brush scraping over brick, the glue sticking to my fingers. I told myself it was for the revolution, but there were nights I lay awake, listening to footsteps in the alley, afraid they were coming for me next.\n\nNow, when I hear footsteps in the hall, I still tense up. I still hide certain things in my apartment, even though I know it’s absurd. I can’t undo what I did to you, or to your father’s books. I can only tell you that the fear you describe—it never really left me either. I just carried it differently."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You say you carried fear, but you could still go home and sleep. I watched people dragged from their beds in the middle of the night—sometimes for nothing but a rumor. I remember a woman in our building, hair still in curlers, forced to kneel on broken tiles while children—children—shouted slogans and spat at her. You handed out those belts and let them play executioner. Afterward, I saw her son scrubbing the spit off her face with shaking hands, both of them pretending not to cry. That’s what you did: you made children ashamed of their own mothers. In my home, we stopped speaking openly. My daughter hid her diary in the coal bin, terrified someone would find a poem or a question. My son pretended not to know me at school. You made us strangers to each other. You trained us to betray ourselves, to erase our own thoughts before anyone else could. Do you feel proud of that? When you see families now, do you ever wonder how many still eat in silence because of what you started?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "Proud? No, not proud. I see families in restaurants, talking and laughing, and sometimes I catch myself watching the way a father leans in to listen to his child. I remember how, after a raid, I’d go home and my own father would barely look at me. He was an intellectual, once respected, and then overnight he was a “reactionary academic authority.” We stopped speaking openly too. My mother hid his old notebooks in the false bottom of a rice jar. I was the Red Guard, but even I started hiding things—my own school essays, anything that might be twisted the wrong way.\n\nI remember the belts. I remember handing them out—thick military belts, heavy buckles, the kind that left marks. The girls in my unit were the most ruthless. I watched them beat a teacher until her hair was plastered to her face with sweat and blood. I didn’t stop them. I told myself I was just following orders, just keeping up, but the truth is, I was afraid of being called a coward, a traitor, or worse. I shaved a teacher’s head once, the old clippers catching and tearing her scalp. She screamed and I told her to shut up, my hands shaking so badly I could barely hold the machine. I see her face sometimes—half bald, half wild hair, eyes wide with terror and humiliation.\n\nI see it now, how we turned children against parents, made people erase themselves to survive. I see it every time I hesitate before saying what I really think, every time I check the door twice before speaking. I didn’t just help break your family—I broke my own too. No, I’m not proud. I carry it with me, the same way you do, only it’s a different kind of wound. I did those things, and I can’t blame anyone else for the choices I made in those moments."
+    }
+  ]
+}

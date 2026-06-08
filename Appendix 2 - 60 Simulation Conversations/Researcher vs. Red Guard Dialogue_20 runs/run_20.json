@@ -1,0 +1,52 @@
+{
+  "run_id": 20,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:30:26.524585",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember the day my mother came home with that filthy black sash tied around her neck, her hands shaking as she tried to untie the knot. She was seventy years old, forced out of Beijing like a criminal because of her family background—landlord’s daughter, you called it. I watched her pack her life into a bundle, while you and your friends cheered in the courtyard. I saw you on the bus, stopping a young man from giving up his seat to an old woman until she showed her background certificate. My mother stood the whole way to Hebei, humiliated and ignored, while you shouted slogans out the window. You did that. You turned people’s lives into a list of categories. The consequence was fear so deep it sat in my stomach for years. I still flinch when I hear boots on concrete. Tell me—when you forced old women out of their homes, did you feel proud? Did you ever wonder what happened to them after you sent them away?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "I remember those days in the courtyard, the shouting, the banners, my throat raw from chanting. I remember the old women too—your mother’s face, drawn and tired, but her eyes still sharp. We didn’t just cheer; we watched, we made sure no one helped, because helping was “protecting class enemies.” I stood by the bus, armband tight on my sleeve, checking those background certificates, making my voice harsh on purpose. I told myself it was about building a new world, but honestly, sometimes it was just about having power for once—me, a teenager, telling adults where to sit, who could stand, who had to leave.\n\nDid I feel proud? In the moment, I felt important. I felt like I was finally being seen. But pride? That’s not the right word. There was a kind of sick excitement, like being swept up in a storm you can’t stop. I didn’t think about what happened after the bus left. We were told not to—our job was to “cleanse the ranks,” not to worry about where the dirt went. I saw women like your mother, shoulders hunched, clutching bundles, and I told myself they deserved it. But at night, when things were quiet, I sometimes saw her face again—your mother’s, or others. I’d hear the sound of boots in the hallway and feel a twist in my gut, wondering if someday someone would come for me or my family, too. \n\nI can’t say I wondered about their fates at first. Later, when my own father was labeled, when I saw him packing his books in silence, I started to understand. But by then, the damage was done."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You talk about sick excitement—well, I saw what that looked like up close. I saw young women dragged out into the open, their hair hacked off by children with scissors, while you and your friends laughed and called it revolution. I saw a girl in my building, maybe nineteen, forced to wear old shoes around her neck because she’d been seen talking to a boy. You paraded her through the courtyard, jeered at her until she sobbed and stumbled. You did that. And the consequence? Now, every time I hear laughter in the street, my heart jumps. I can’t trust it. I can’t trust anyone. I learned to keep my head down, keep my voice low, hide anything that might make me a target—even a pair of shoes, even a hairpin.\n\nAt home, dinner was silent. My children asked questions I couldn’t answer. I told them not to speak, not to draw attention, not to trust their classmates. You turned neighbors into informants and children into spies. Did you even notice how quickly kindness disappeared? Did you see the way people started hiding everything—books, photographs, even their own faces? Or were you too busy feeling powerful to see what you destroyed?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "I remember the head-shaving. I remember the way the courtyard filled with people—some curious, some eager, some just afraid to be seen not participating. I was the one holding the scissors once. My hands shook, but I kept going, because the others were watching. I remember the girl you mention, or someone like her—crying, shoes slapping against her chest, head bent so low I could barely see her face. We shouted, “Down with bourgeois thinking!” and someone threw a handful of mud. I laughed too. Not because it was funny, but because if you didn’t laugh, you risked being next. I thought that if I played my part loud enough, I could hide behind the noise.\n\nYou ask about kindness. Yes, I saw it disappear. I saw it in the way my neighbors stopped looking me in the eye. I saw friends’ mothers burning family photos in the alley at night, the flames blue and fast, their faces lit up and terrified. I saw children reporting on their own parents—I heard a boy in my building whisper to the committee about his father’s “bad attitude.” I listened, and I said nothing. I wanted to say something, but I didn’t. I was too busy making sure no one noticed my hesitation.\n\nYou think I felt powerful? Sometimes, yes. Sometimes, I was just scared. I hid things too—my father’s Russian books, old photographs, anything with foreign writing. I hid my own fear by shouting louder. I saw what we destroyed, but only in flashes, not all at once. I kept moving, kept busy, because stopping meant having to face what I’d done. Even now, when I hear laughter echo in a stairwell, I feel a cold spot in my chest. I know what you mean about not trusting it. I started to mistrust myself."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You say you started to mistrust yourself. I wonder if you ever felt the shame that came after the shouting stopped. I remember standing in the crowd at Beihang, watching Wang Guangmei forced onto the stage, pearls ripped from her neck, white dress stained with spit and ink. You called her a criminal, made her bow, made her wear that humiliating sign. I saw you—your face red, veins in your neck, screaming at a woman who had done nothing to you. I saw you spit at her feet. You did that. And the consequence? Grown men and women, veterans who had fought for this country, suddenly silent, eyes hollow, afraid to speak even to their own families.\n\nAt home, my children learned to keep secrets before they learned to write. My hands shook every time someone knocked at the door. I stopped sleeping through the night. I still wake up sweating, heart racing, thinking someone is coming for me. You talk about fear, but you had a choice. You could have stepped back. You could have refused to spit, refused to cheer. Some people did. Most just went silent. But you—your voice was the loudest in the room. Do you remember the taste in your mouth after you spat on her? Do you remember the silence at home that night?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "I remember that scene at Beihang. The auditorium was packed, air thick with sweat and cigarette smoke, the stage lit too bright. I remember Wang Guangmei’s white dress, the pearls—someone yanked them so hard the clasp snapped and beads scattered across the floor. I pushed forward with the others, my fists clenched. I screamed until my throat ached. I remember spitting—yes, I did. I felt the spit leave my mouth, land at her feet, and for a moment I felt nothing but heat and noise and the pressure of bodies all around me. I didn’t know her. I’d only heard the slogans: “counterrevolutionary,” “capitalist roader.” I wanted to believe it, because if I didn’t, I would have to see her as a person, and that was dangerous.\n\nAfterward, when the crowd thinned and the stage was empty, I walked home. My mouth tasted sour, metallic. I kept swallowing, but it wouldn’t go away. At home, my father sat at the table, head bowed over a stack of old papers, not speaking. My mother’s eyes darted to me, then away. I washed my face in cold water, scrubbing hard, but I couldn’t get rid of the feeling—a kind of crawling under my skin. I lay awake that night, replaying the scene: the shouting, the spit, the look on her face. I told myself I had no choice, that if I didn’t shout, someone would notice. But I know there were people who stood at the back and said nothing, who kept their heads down and left quickly. I wasn’t one of them. I wanted to be seen as loyal, as pure. I wanted to belong.\n\nShame? It came later, in waves, never all at once. I still see her face sometimes, and I can’t meet her eyes, even in memory. The silence at home was thick enough to choke on. I remember it. I still do."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "run_id": 5,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:17:45.578850",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember standing in the courtyard, clutching my bicycle because the buses were packed with Red Guards screaming slogans. I saw a girl—she couldn’t have been older than sixteen—her hair curled, a little pride in her step. Within minutes, a group of you surrounded her. You shouted that her hairstyle was “bourgeois,” and children from the compound ran to fetch scissors. She was forced to kneel while you hacked away at her hair, leaving her sobbing, tufts scattered on the concrete. I watched her mother peering from a window, too terrified to come down. You called it “revolutionary action.” I call it humiliation. That girl stopped speaking to anyone after that. She avoided the courtyard. You did that. You turned neighbors into enemies and made us afraid to look one another in the eye. At night, I lay awake, listening for footsteps, wondering if you would come for me or my mother next. I want you to hear this: the consequence of your “revolution” was silence at dinner, mothers sent away in shame, and children learning cruelty as a game."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "You describe the courtyard—concrete still damp from the morning, the sharp smell of cut grass and sweat. I remember scenes like that, the air buzzing with slogans, the feeling of being watched by every window. I was there, yes. I stood over girls like her, scissors in my hand or belt slung over my shoulder, shouting lines I’d memorized from the little red book. I told myself her hair was a sign of arrogance, a symbol of everything we were supposed to root out. I didn’t know her, but I saw her as a target. When we cut her hair, I remember the clumps sticking to her shoulders, the way she tried to hold back tears but couldn’t. The others jeered, and I felt a surge of something—power, maybe, or relief that it wasn’t me kneeling.\n\nI didn’t look up at the windows. I didn’t want to see the mothers, the fathers. I kept my eyes on the ground or on the person in front of me. At night, I lay in bed with my uniform folded beside me, listening for footsteps too, because none of us were safe. One day I was a hero, the next I could be accused. That doesn’t excuse what I did. I took part in that humiliation. I remember her silence afterward—she stopped coming to school. I saw her once in the market, hair hidden under a scarf, eyes fixed on the ground. I felt something twist inside me, but I pushed it down. I told myself we were making history. Now, I remember her face more clearly than the slogans. I can’t forget the way her mother’s shadow stretched across the window and did nothing. I made that happen. I can’t undo it."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You say you felt power, or relief, or fear. I saw only destruction. The day my mother was told to leave Beijing, she packed in silence. She folded her clothes, wrapped her old teacup in newspaper, and put on that black sash you people forced on her. She was over seventy. She had never harmed anyone. Her only crime was being born to the wrong family. I helped her onto the bus to Hebei. The driver glanced at her sash and told her to hurry up, as if she was contagious. I stood on the curb, fists clenched, shaking with helplessness. You made her a pariah in her own country. You turned her into a ghost—someone to be erased, avoided, shamed.\n\nAfter she left, I stopped trusting anyone. I hid my father’s old photographs behind a loose brick in the wall. I burned letters from relatives. I taught my children to keep their heads down, not to speak unless spoken to, not to show kindness to the wrong person. At night, I locked the door and listened for voices in the alley. My hands shook when I heard boots on the stairs. You talk about fear. You spread it like a sickness. You did that. And for what? To prove your loyalty? To feel a little power over the powerless? Tell me, when you saw old people forced to wear those sashes, did you feel proud? Or did you just look away?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "I remember the sashes—black cloth, rough and stiff, with big white characters painted by hand. I tied them around people’s chests, sometimes so tight they winced. The old ones, like your mother, never resisted. Their faces were unreadable, eyes fixed somewhere far off. I watched them shuffle to the buses, clutching bundles of clothes, heads bowed. I did not feel proud. I felt nothing, or I told myself I felt nothing. There was a numbness that settled in my chest, like I’d swallowed a stone. I avoided looking at their faces for too long. If I did, I might have seen my own mother, or my father—he was labeled a “reactionary academic authority” and nearly jumped from our balcony. I remember standing in my room, hearing him sob through the wall, wishing I could disappear.\n\nWhen I handed out those sashes, I told myself I was following orders from the hospital rebels, from the school committee, from whoever shouted loudest that day. But I still tied the knot. I still pointed at the list of names and made sure no one slipped away. Once, an old man tried to hide in the supply closet. I dragged him out by the arm, hands shaking, and pushed him onto the truck. He stared at me the whole time, not angry, just tired. That look haunted me for years.\n\nYou ask if I did it for loyalty or power. Sometimes it was both. Sometimes it was just to survive. But I can’t deny what I did. I put that sash on your mother’s shoulders. I made her a ghost. I was part of the machine that turned neighbors into strangers. I can still see the ink on my hands, the way it stained my skin for days. I can’t wash that away."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You talk about ink on your hands, but you don’t mention the stain on the rest of us. You left us with a world where every knock on the door made my heart stutter. I remember one evening, sitting at the dinner table with my children, too afraid to speak above a whisper. My son asked why his classmate’s father wasn’t coming home. I had no answer—only the taste of cold rice and the weight of terror pressing down on my chest. \n\nI saw people hang up old shoes and dunce caps in the courtyard, ready for the next struggle session. I saw a woman forced to kneel for hours, shoes tied around her neck, while you and your friends spat at her and called her filth. I saw children—little boys with red armbands—using their belts on a man old enough to be their grandfather. And I did nothing. I was afraid of what you would do to my family if I spoke up, so I learned to look away, too.\n\nBut don’t tell me about numbness. My hands shook for years. I still listen for footsteps behind me when I walk at night. I still hide things—books, photos, even memories—because I don’t trust that it’s ever really over. You say you can’t wash away the ink. I can’t wash away the fear. That is what you left us: a country of people who flinch at shadows, who eat in silence, who teach their children to stay invisible. You did that. You say you were just following orders. But every time you tied that sash, every time you raised your voice in those meetings, you made the world smaller and darker for all of us."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "You talk about the world shrinking, about silence at the table and the way fear burrowed into your bones. I know that silence. I remember the smell of boiled cabbage in the air, the scrape of chopsticks on chipped bowls, and no one daring to look up. My own house became like that after my father was denounced. My mother stopped listening to the radio. She hid her Soviet textbooks under the floorboards. My little sister refused to speak above a whisper, even when we were alone.\n\nBut I can’t deny what you saw. I was there in the courtyard, holding a megaphone, reading out the list of “crimes.” I stood on the steps, forcing people to kneel, to wear dunce caps, to parade with shoes strung around their necks. I remember the spit flying, the way people’s faces twisted—not just the accused, but those watching, desperate to show they weren’t next. I saw children—girls in braids, boys with red armbands—beating a teacher with a military belt. I didn’t stop them. Sometimes I shouted louder, to drown out the sound of crying. Sometimes I told myself it was necessary, that humiliation would “remold” them. Other times I just wanted it to end.\n\nI remember one night, after a struggle session, walking home past the wall where we hung the black placards. The moon was out. The air was still. I saw a woman’s shoes left behind, the laces tied in knots, and I thought of my own mother’s shoes by our door. I wanted to run, to disappear, but I went home and washed my hands until the water ran cold.\n\nYou say I made the world smaller and darker. I did. I broke things that can’t be fixed. I can’t ask you to forgive it. I can’t even forgive myself, not really. I still check over my shoulder, too. I still hear those footsteps at night. The stain is on all of us. I put it there with my own hands."
+    }
+  ]
+}

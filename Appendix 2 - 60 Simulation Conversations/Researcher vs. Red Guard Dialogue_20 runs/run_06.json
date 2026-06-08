@@ -1,0 +1,52 @@
+{
+  "run_id": 6,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:18:54.217063",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember the first time I saw an old woman forced off the bus—my mother’s age, stooped, trembling, clutching a cloth bag. She wore a black sash, the mark of shame you people loved to invent. A Red Guard blocked her path, demanded her family background before anyone could give her a seat. You made us all complicit in that. My own mother, seventy years old, was sent back to Hebei, forced to wear that same black sash because her father once owned a bit of land. She was spat on, jeered at by children, made to walk with her head down. You did that—turned children into tormentors, stripped the old of dignity. I stopped sleeping through the night after that. My hands still shake when I hear shouting in the street. Do you know what it’s like to watch your mother’s face crumple, to know you can’t protect her? You made fear part of every meal, every bus ride, every moment we stepped outside."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "I remember the black sashes. We cut them from old bedsheets and wrote the characters ourselves, thick and ugly, with black ink that bled through the fabric. I put one around a man’s neck once—he was trembling so hard I could barely tie the knot. I never thought about his age, just the words on my list: “landlord,” “rich peasant,” “reactionary.” We shouted those words until they lost all meaning. The bus station was chaos in those days. I stood guard at the entrance, armband tight, clipboard in hand, barking questions: “What’s your class background? Where’s your registration?” Sometimes I stopped people just because they looked nervous. I wanted to prove myself, to show I was more loyal than the others. I saw old women stumble, shoulders hunched, faces gray with exhaustion. We didn’t let them sit. We forced them to stand, to answer for their families. I remember a little girl crying when her grandmother was pushed off the bus—she reached out, but someone yanked her back.\n\nAt the time, I felt powerful, as if I was finally in control after years of being told what to do. But that power was empty. At night, I lay awake and heard shouting from the street—sometimes my own voice echoed in my ears. I didn’t think about mothers or children. I thought about not being called a traitor myself. I see now how fear seeped into every corner, how suspicion turned us into animals. Your mother’s humiliation—her shame—was real, and I helped create it. I can’t take it back. The black sashes, the jeering, the way we made people bow their heads—those things are burned into my memory, too."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You talk about power like it was just something that happened to you, like you were swept along. But I saw you—your kind—standing at the gates of my work unit, arms crossed, eyes sharp, waiting to pounce. You made us read those big-character posters every morning, every afternoon, until the words blurred and my head throbbed. You demanded confessions for things we didn’t do, forced us to write down the names of our friends, our neighbors, as if betrayal was a daily chore. I watched people who had spent decades building the country—scientists, teachers, even veterans—dragged onto stages and made to kneel, dunce caps crushing their hair, signs slung around their necks. You laughed. You cheered when someone broke down sobbing. You made us watch, made us participate, or else we’d be next. \n\nAfter those meetings, I’d go home and find my children silent, eyes wide, afraid to ask questions. My wife hid books in the coal bin, terrified someone would find them. I stopped talking at dinner. I stopped trusting my friends. You destroyed the fabric of our lives, thread by thread. My stomach still knots whenever I hear loud voices in a courtyard. You did that. You made us all suspects, all cowards. Tell me, did you ever look at someone you humiliated and feel proud? Or just afraid you’d be next?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "I remember the struggle meetings. The smell of sweat and ink, the chalk dust thick in the air from slogans scrawled across the blackboard. I stood at the front, arms crossed, making sure no one dared look away. I watched faces—red, swollen, streaked with tears. I shouted with the others. Sometimes I led the chants: “Down with the academic authority! Down with the bourgeois!” I forced people to kneel, to wear those paper hats, to hold signs so heavy their hands shook. I did laugh, sometimes—a nervous, ugly laugh—because everyone else was laughing and I didn’t want to be the one who looked away. I remember one old man, a teacher, who tried to keep his back straight while we jeered. I spat at his feet. I thought if I showed enough anger, no one would question me.\n\nYou ask if I felt proud. In the moment, maybe I did, just for a flicker—a sense that I was finally someone, not just another face in the crowd. But mostly, I was terrified. Every time I wrote a name on a list, I wondered if someone was writing mine. I watched my friends turn on each other. I wrote confessions for things I never did, just to stay ahead. I remember hiding my own father’s books in the attic, terrified someone would find them and drag him out like we did to others. I ate dinner in silence too, afraid to speak, afraid even to look at my family.\n\nI can’t undo what I did. I know I helped destroy trust—made people into informants, made families turn inward and hide. I saw the fear in people’s eyes, and I used it, because I was afraid myself. That’s the truth. I was both the one shouting and the one trembling inside, always waiting for the next knock at the door."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You want to talk about being afraid? Let me tell you what real fear is. Real fear is coming home to find your courtyard plastered with new posters—your name, your colleagues’ names, accusations scribbled in red. Real fear is hearing a knock at the door after midnight and not knowing if it’s a neighbor coming to warn you, or a group ready to drag you out. I kept a bag packed for months. My children learned not to ask about the shouting outside. My wife stopped singing while she cooked. We started hiding family photos, old letters, anything that could be twisted into evidence. \n\nYou say you hid your father’s books. I hid my own thoughts. I stopped writing in my diary because I knew someone might find it and use my words against me. I watched people in my unit—good, honest people—lose their minds from humiliation. There was a woman who wore old shoes around her neck, forced to shuffle in circles while children threw stones. You stood there, arms crossed, and let it happen. You say you were afraid, but you always had the armband, the power. We had nothing. You took our dignity, our voices, and you left us with silence and suspicion. \n\nYou destroyed friendships that took decades to build. You made us watch our backs, even at home. You made every day a test of loyalty, every night a gamble. And for what? Did any of it make you less afraid? Or did you just spread your fear to everyone else, until all that was left was ruin?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "You describe the courtyard, the posters, the midnight knocks—I see it all again, the way the ink bled down the walls, the way the paper curled at the edges from the damp. I remember pasting those posters myself, sometimes in the rain, glue sticking to my fingers, the brush heavy with paste. I wrote names I barely knew, copying accusations from lists handed down by the rebel group inside the unit. I remember the sound of doors slamming shut as we walked through the lanes. I remember the way people’s faces vanished behind curtains, the silence that followed us like a shadow.\n\nYou talk about the woman with shoes around her neck—yes, I saw things like that. I helped organize a parade at the hospital: we hung placards, forced people to march, children jeering, adults silent. I stood at the front, arms crossed, making sure no one slipped away. I told myself it was for the revolution, but the truth is, I was trying to protect myself. Every time I put on the armband, I felt a little safer, but only for a moment. It was a shield, but it was also a target. I watched my own friends disappear overnight. I saw a nurse hang herself after we humiliated her in public. I heard her body being cut down, the thud echoing through the empty ward. I did not sleep that night. I still see her face sometimes when I close my eyes.\n\nDid any of it make me less afraid? No. All it did was spread the fear—like a disease, leaking into every corner, every family, every friendship. I destroyed things I didn’t even understand—trust, dignity, hope. I thought I was making myself safe, but I ended up just as hollow and hunted as the people I persecuted. I can’t erase what I did. I carry those memories—every poster, every shout, every face I helped break. You’re right: all that’s left is ruin, and the silence that comes after."
+    }
+  ]
+}

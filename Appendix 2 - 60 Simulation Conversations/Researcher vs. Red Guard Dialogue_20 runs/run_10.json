@@ -1,0 +1,52 @@
+{
+  "run_id": 10,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:21:54.365514",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember standing on the Number 13 bus, clutching the metal pole, knees aching because you and your friends wouldn’t let anyone offer a seat to my mother. She was in her seventies, trembling, forced to wear that black sash because her father owned a few acres of land decades ago. You barked at the whole bus, “No seats for landlords’ families!”—as if humiliating a frail old woman proved your loyalty. That day, I watched her lips pressed tight, refusing to beg, but her eyes met mine and I saw shame and terror. You did that. You made fear the currency of daily life. You made even a bus ride a gauntlet of suspicion and cruelty. I still flinch when someone raises their voice in public. Does that mean anything to you?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "I remember scenes like that—crowded buses, the stink of sweat, the way people stared at the floor to avoid trouble. I remember shouting orders, yes. I can still hear my own voice echoing in that metal box, harsh and certain, as if volume alone could erase doubt. I wanted everyone to see that I was on the right side, that I was not weak. I told myself it was about class struggle, but really, it was about fear—my own fear of being next, of someone pointing at me and saying I was not revolutionary enough.\n\nThat day on the bus, I saw an old woman with shaking hands. I saw her eyes, too. I told myself she was the enemy, but she looked just like my own grandmother. My stomach twisted, but I forced myself to look away. I barked out those words because I was terrified of what would happen if I didn’t. If I had hesitated, someone else would have shouted louder, and maybe they would have turned on me instead.\n\nI can’t undo what I did. I can’t give your mother back her dignity, or erase the shame I put on her. I think about those moments more than you might believe. I still wake up sometimes with that same sick feeling in my gut, remembering how easy it was to trade someone else’s pain for my own safety. Does it mean anything to me now? I can’t ride a bus without thinking of those faces, the ones I forced to look away. So yes, it means something. But it doesn’t change what happened."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You talk about your fear, but you never had to come home and explain to a child why their grandmother was gone. You never had to watch your own mother, who once read poetry to you by lamp light, shuffle out the door with her head down, her belongings stuffed into a sack, because people like you decided she was poison. I hid her books. I tore up family photos with trembling hands, terrified you’d come searching, that a single keepsake would be enough to drag us out, too. My son stopped asking questions. He stopped speaking at dinner. My hands still shake when I hear boots on the stairs. You did that. You made us erase ourselves, just to survive another day under your gaze. When you say you “can’t undo it,” that’s a luxury. We live with it every time we hear a knock at the door. Did you ever once think about the silence you left behind in people’s homes?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "I remember the house searches. The pounding on doors, the way people froze when we stormed in—sometimes with sticks, sometimes just with our armbands and our shouting. I remember the smell of fear in those cramped apartments, the frantic way people tried to hide things—books, photos, a single foreign coin. I tore open drawers and closets, tossed bedding onto the floor, sometimes just for show, because others were watching me, waiting to see if I’d hesitate. I remember a woman clutching a photo album to her chest, begging me not to take it. I grabbed it anyway and tossed it on the pile. I told myself it was just paper, but I saw her face, how she went quiet after that, like the air had been sucked out of her.\n\nI know what you mean about the silence. After a search, the apartment felt hollow, like the soul had been ripped out. I saw children watching from behind doors, eyes wide, not making a sound. I saw men staring at the wall, refusing to look at us. I never thought about what happened after we left, not at first. I only cared that we didn’t miss anything that could get us in trouble with our own group. But sometimes, late at night, I’d remember those silent rooms. I’d think about the emptiness we left behind, the way people stopped speaking, stopped trusting each other, even in their own homes.\n\nYou talk about tearing up photos—I did that, too, in my own house, when my father was labeled. I burned his letters from Yan’an, smashed his radio, hoping no one would find them. I was both the one searching and the one being searched. That doesn’t excuse what I did to your family. It just means I know the silence you’re talking about. I helped create it, and I lived in it, too. The difference is, I had a choice every time I raised my voice or my hand. I chose the safety of being the accuser, not the accused. That’s something I can’t shake, no matter how many years pass."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You say you lived in that silence, but you could still walk down the street with your armband, head high, while the rest of us pressed ourselves against walls, praying not to be noticed. I remember watching a girl from our compound—barely twenty—paraded through the courtyard with old shoes strung around her neck. You and your friends jeered, called her “decadent” because she wore her hair in curls. She bit her lip so hard it bled, but she didn’t cry. That night, her mother swept the courtyard alone, head down, not speaking to anyone, as if shame was contagious. Afterward, none of us dared greet each other in the mornings. I started hiding my own hairpins, terrified a child would grab me and cut my hair. I still wake up sweating, convinced someone is watching me from the window.\n\nYou did this: you made neighbors into enemies, children into informants, mothers into ghosts. My body still reacts—heart pounding, hands cold—when I hear laughter in the street, because I remember how you laughed while humiliating her. You stole our trust, our voices, our sleep. What do you do with that knowledge now? Do you ever wonder what it’s like to live with your own shadow following you everywhere?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "You want to know what I do with that knowledge now? I carry it like a stone in my gut. I remember that courtyard, the taste of dust in my mouth, the way we shouted and laughed, trying to outdo each other, to prove we were true revolutionaries. I remember the girl with the shoes around her neck. I remember the way she stared straight ahead, jaw clenched, blood at the corner of her mouth. I told myself she was stubborn, that she deserved it for refusing to confess. I remember the laughter—sharp, forced, echoing off the walls. It wasn’t real laughter. It was a shield. If you laughed, no one would question if you belonged.\n\nAfter, when it was quiet, I’d walk home and sometimes see the mothers sweeping up the mess we left behind—bits of paper, torn cloth, sometimes blood on the stone. I’d see curtains twitch, neighbors’ faces vanishing before I could meet their eyes. I started avoiding those courtyards. I started walking with my head down, even with the armband. I felt the eyes on me—some with fear, some with hate, some just empty.\n\nYou talk about shadows. I see mine every time I look in a mirror. I can’t go back to the old neighborhoods. I avoid reunions. I don’t laugh easily anymore. When I hear children laughing in the street, I flinch, because I remember the sound of our own voices—how we used it to drown out guilt, to fill the silence we’d created. I can’t undo what I did to that girl, or to you, or to your mother. I can’t give back the trust I shattered. All I can do is remember, every single day, that I was the one who chose to become the shadow you still feel. That’s the truth I live with, whether or not you believe it’s enough."
+    }
+  ]
+}

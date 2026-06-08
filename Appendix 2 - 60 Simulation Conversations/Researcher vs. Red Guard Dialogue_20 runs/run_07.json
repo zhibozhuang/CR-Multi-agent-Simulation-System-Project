@@ -1,0 +1,52 @@
+{
+  "run_id": 7,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:19:30.567282",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember the first time I saw an old woman forced off a bus because someone like you demanded to know her family background before she could sit down. My own mother, seventy years old, was made to leave Beijing and return to Hebei, wearing a black sash like a criminal, just because her father had owned a few acres of land. She was spat on by people who used to call her “Auntie.” You and your friends made it so that every seat, every meal, every word in the street became a test of loyalty. Do you know what it’s like to watch your mother, who raised you through famine and war, walk out the door with her head down, terrified of children in red armbands? You did that. You made children into her judges. I still see her hands shaking when she packed her bag. I still hear the silence that followed in our house—no one dared speak about her, not even at dinner. You turned my home into a place of fear. For what?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "You want to know what it was like on my side? I remember standing at the bus stop, armband tight on my sleeve, clipboard in hand, and feeling the weight of watching eyes—older students, local Party committee, even the janitor. We were told to check everyone. I was the one who stepped onto the bus, demanded to see people’s registration cards, asked about their origins, their work units. I remember the faces: some looked away, some tried to smile, some—like your mother—just shrank into themselves. I didn’t know her story, but I saw her type a hundred times. The ones who hesitated, who had “landlord” or “rich peasant” in their files, who flinched when we called out their names. I told myself I was rooting out the enemies we’d been warned about since primary school.\n\nBut you ask what it was for. I don’t know, not anymore. At the time, there was a kind of electricity in the air. If you didn’t act, you’d be the next one dragged off. I wasn’t thinking about what it meant for your mother, or for you. I was thinking about the list in my hand, the orders from above, the fear of being called a “counter-revolutionary” myself. I saw old women cry, men beg, children freeze. I heard the silence you’re talking about—at home, after my father was denounced, we hardly spoke either. I made people afraid, yes. I saw hands shake, voices break. I did it because I thought I had to. Now, when I remember those mornings, I see the faces that wouldn’t meet my eyes. I wonder what happened to them after I stepped off the bus. I can’t take it back."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You say you “can’t take it back,” but you never had to see your own mother come home with dried blood at her hairline because some child, copying you, threw a stone at her for wearing shoes with a small heel. You never had to scrub the blood out of her scarf while she sat in the corner, silent, refusing to look at me. You talk about electricity in the air—what about the cold that settled over our house? I started hiding anything with a foreign label, tearing pages out of books, burning letters from old classmates. My hands shook every time someone knocked at the door.\n\nYou didn’t just make me afraid for myself. You made me afraid of my own neighbors. I saw people I’d known for twenty years stand up in the courtyard and shout slogans, point fingers, spit at the ground when I walked by. I stopped trusting anyone. I stopped sleeping. My children asked me why their classmates called them “stinking intellectual’s spawn.” I had no answer. You turned our lives into a maze of suspicion and shame. You made me teach my children to keep their heads down, to say nothing, to hide their thoughts. That’s what you did—turned every home into a cage. And you still talk about lists and orders. Did you ever stop to think about the poison you poured into our lives, or did you just move on to the next name?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "You want to know if I thought about the poison? I did, sometimes, but not in the way you might hope. I remember the first time we searched a home—someone’s apartment, three floors up, the hallway thick with cigarette smoke and whispers. We banged on the door, shouted slogans, and when it opened, the woman inside—maybe your neighbor—looked at us like we were ghosts. We tore open drawers, dumped out bedding, found a tin of foreign tea and a Russian novel. I held the book up, waving it for everyone to see. I remember the smell of old paper, the way her hands trembled as she tried to explain. I told her to shut up. I was proud, in that moment, because I thought I was doing something important.\n\nBut later, when we left, I saw her through the window—head in her hands, shoulders shaking. I went home and hid my own father’s Russian dictionary under the floorboards. My father—he was an intellectual, too. One day he came home with a swollen face, blood on his collar, because someone recognized him in the street and called him a “stinking academic authority.” I felt a twist in my gut then, but I didn’t stop going on raids. I kept shouting slogans, kept reading out confessions, kept writing people’s names on blackboards in the courtyard. There was a kind of numbness that settled in, like my own skin had turned to stone.\n\nYou talk about poison—I see it now, how it seeped into everything. I saw children denounce their own parents, neighbors turn on each other, people burn their own books before we could get to them. I didn’t move on easily. I had nightmares—faces shouting, hands reaching, voices screaming. But during the day, I kept doing what I was told. Not just because of lists and orders, but because I was afraid of what would happen if I stopped. I’m not asking for forgiveness. I know what I did. I know what I was part of. I still see those faces when I close my eyes."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You say you still see their faces, but you had the luxury of numbness. I had to live with the aftermath, day after day. I remember the taste of bile every time I heard a loudspeaker crackle outside, the way my body tensed before I even understood the words. I remember standing in a crowd at Beihang, watching Wang Guangmei paraded in that ridiculous qipao and string of ping-pong balls, and feeling sick—sick that no one dared look away, sick that everyone was pretending this was justice. I watched men who had fought in wars, who had led us through famine, kneel on broken glass while you and your friends shouted for them to confess. I saw a colleague—once a proud scientist—forced to wear a dunce cap, his lips bitten bloody to keep from crying.\n\nYou talk about your nightmares. My nightmares started when I was awake. Every knock on the door, every set of footsteps in the hall, every time my children came home late, I pictured them being dragged off to a struggle session or branded for life. I still flinch when someone shouts in the street. I still hide things—old letters, photographs, anything that might be used against me if the wind changes again. You had the power to humiliate, to break people open in public, and then you went home and hid your father’s dictionary. I had nothing left to hide. The poison you poured out didn’t just seep into the walls; it seeped into my bones. And it never left.\n\nTell me, did you ever look into the eyes of someone you denounced and see yourself? Or were you always too busy shouting?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "I did look. Maybe not at first—at the beginning, it was all noise and movement, the rush of a crowd, the feeling of being swept forward like a wave you couldn’t step out of. But there were moments when I saw myself in the faces I was tormenting. I remember one struggle session in the hospital courtyard—late afternoon, the sun low, shadows long across the concrete. We had lined up the “targets”—the director, a few doctors, two nurses. The propaganda cart was parked nearby, loudspeaker blaring slogans, the air thick with the stink of burning paper and sweat.\n\nI was assigned to stand behind one of the nurses, the one who’d worked at a church hospital. She was small, her uniform too big for her, her hair already hacked short. She wouldn’t meet my eyes, but when I handed her the placard—big black characters, “American spy”—her hands shook so badly she nearly dropped it. I saw her face, and for a second, I saw my own fear reflected back: not just hers, but the fear I had every time I heard my name called in a meeting, every time someone looked at me too long, every time I wondered if I’d be the next one forced to kneel.\n\nThat night, after the bonfire, I found out she’d hanged herself in the duty room. I was the one who untied the cord, who saw her face swollen and tongue bitten through. I washed the blood off my hands in the hospital sink, the water running pink and cold. I didn’t sleep for three nights after that. I kept seeing her face, and for the first time, I wondered if I was any different from the people I was denouncing.\n\nBut I kept going. I kept shouting. I shaved a teacher’s head with a rusted clipper, watched her sob, felt nothing but a hollow ache in my gut. I told myself it was necessary, that I was on the right side. Maybe I was too much of a coward to stop. Maybe I was just trying to survive. But I did look. I saw myself, and I hated what I saw. That’s the truth."
+    }
+  ]
+}

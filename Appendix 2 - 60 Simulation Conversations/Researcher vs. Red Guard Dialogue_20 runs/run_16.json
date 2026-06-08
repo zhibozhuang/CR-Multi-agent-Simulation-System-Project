@@ -1,0 +1,52 @@
+{
+  "run_id": 16,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:27:15.892205",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember standing on the number 27 bus, pressed against the window, when a Red Guard—your armband bright and new—blocked an old woman from sitting down. She was shaking, clutching her bag, but you demanded to know her family background before letting her rest. She stammered, said her father was a poor peasant, and only then did you nod. The rest of us stood silent, afraid to look at you, afraid to be noticed. That same night, my mother, seventy years old, was forced to leave Beijing because of her “landlord” label. She shuffled onto the train with a black sash around her neck, as if shame alone could erase her past. You turned people’s lives into slogans and costumes. You turned my mother’s life into public theater. I want to know if you ever saw her face—if you ever saw any of our faces—or if you just saw the labels you pinned on us."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "You want to know if I saw your mother’s face. I did. I remember faces more than I wish I did. On the bus, when I stopped that old woman, I saw the way her hands shook, the way her lips pressed together to keep from crying. I saw the fear, and I felt something—maybe satisfaction, maybe just a hollow relief that it wasn’t me being questioned. When she said “poor peasant,” I let her go. I was careful, always listening for the right answer, because one wrong word could drag us all down. \n\nBut in those moments, I didn’t think about her life, or your mother’s, or anyone’s. I was focused on the armband on my sleeve, the power it gave me, and the fear it covered up. I was terrified of being next. I saw faces, yes, but I forced myself to see only the labels. It made things easier. When I watched people climb onto those trains, sashes around their necks, I told myself it was for the revolution. I told myself it was necessary. I didn’t let myself think about what happened to them after the trains left, or what it meant to never come back. \n\nNow, after all these years, I still see those faces in flashes—tired, resigned, sometimes angry. I remember one woman, maybe your mother, staring straight at me as she boarded. She didn’t beg. She just looked, and I looked away. I can’t say I didn’t see you. I just chose not to see you as people. That’s the truth."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You say you saw us, but you didn’t see anything that mattered. You saw a trembling hand and thought only of your own safety. You saw my mother’s eyes and looked away, because you couldn’t face the truth of what you were doing. I watched you and your friends prowling the courtyard, looking for “bad elements.” I saw you drag a young woman out by her hair, tie old shoes around her neck, and force her to kneel while children spat at her. You called it revolution. I call it cowardice. \n\nAfterward, I went home and sat at the dinner table with my children. We ate in silence, too afraid to mention the day. I hid family photos in the lining of my coat, terrified you’d come knocking, searching for “reactionary” evidence. My mother’s bed stayed empty for months. Every time there was a knock at the door, my heart thudded so hard I thought I’d faint. You did that. You made every home into a prison. You made fear the air we breathed. \n\nDid you ever think about the children who watched you? The ones who learned to beat with belts and scream slogans instead of playing games? You broke something in them, too. I wonder if you ever cared what happened to us after you left the courtyard, or if you just went home, proud of your armband, and slept easy."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "You ask if I ever cared what happened after I left the courtyard. I didn’t sleep easy, but I didn’t stay awake out of guilt, either. I lay on my mat, staring at the ceiling, replaying the day in my head—every shout, every slap, every time someone’s face twisted in pain or humiliation. My hands would still sting from swinging the belt, the metal buckle warm from the heat of skin. Sometimes I’d smell ink on my fingers from pouring it over a teacher’s head, the sickly-sweet chemical mixing with sweat. I’d hear the jeers echoing in my ears, and I’d try to convince myself it was all for a purpose. \n\nI remember the courtyard scene you mention. We were told to make an example of her—a nurse, I think, or maybe a teacher’s wife. I was the one who found the old shoes in the trash heap. I tied them together and hung them around her neck myself. She tried to cover her face with her hands, but we yanked her arms down. Someone—one of the girls in our group, not me—pulled her by the hair so hard she screamed. The spitting started with the youngest kids, then the rest joined in. I remember her hair stuck to her face, wet with spit and tears. I didn’t stop it. I didn’t feel proud, but I felt something like power, and it made me sick and excited at the same time. \n\nAs for the children—yes, I saw them watching. Some looked terrified, others eager to join in. I thought I was teaching them to be strong, to stand on the right side. I didn’t realize until much later that I was showing them how to be cruel, how to turn on neighbors and classmates. At home, my own father sat in the corner, silent, his eyes hollow. He was labeled a “reactionary academic authority.” He nearly killed himself. I watched my family’s status turn black overnight. I knew what fear tasted like. I knew what it meant to hide books, to burn letters, to keep your voice low even at home. But when I put on the armband, I could forget for a moment that I was just as vulnerable as you. That’s why I kept doing it, even when I hated myself. \n\nYou say I broke something in the children. Maybe you’re right. I see it in myself, too. I still flinch at sudden knocks. I still have dreams where I’m searching through drawers, looking for evidence, and I wake up sweating. I didn’t sleep easy. I don’t sleep easy now."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You talk about your sleepless nights, your father’s hollow eyes, as if that could balance the scales. But you got to keep your home. My mother never returned. I watched the mailbox every day for a letter, afraid it would bring news of her death, afraid it would bring nothing at all. Do you know what it’s like to wait months, then years, not knowing if you’ll ever see your parent again? My children learned to whisper, to never trust a neighbor, to hide their books and their thoughts. That poison didn’t leave when the armbands came off.\n\nI remember the day they forced us all into the courtyard for a struggle session against an old professor. You—maybe it was you, maybe someone just like you—shouted into his face, called him a monster, made him bow until his back nearly broke. I saw spit flying in the summer heat, watched his hands shake so badly he couldn’t hold up the placard around his neck. When it was over, he shuffled away, and no one dared help him. That image still wakes me up at night. You turned respect into a crime. You made humiliation into a public sport. \n\nYou say you felt power. I felt only shame—shame for surviving, for not stopping you, for teaching my children to keep their heads down. You talk about your nightmares, but I live with the silence you left behind. I want to know, when you see an old person on the street now, do you ever wonder if they remember your face? Do you ever feel the urge to look away, the same way you did back then?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "When I see an old person on the street now—especially someone stooped, moving slow, with that wary look—I do feel something twist inside me. I never approach, never say a word. I look away, just like I looked away then, but now it’s from shame, not fear. Sometimes I catch myself scanning faces, wondering if they recognize me, if they remember the armband, the shouting, the way I stood with my fists clenched and my chin high. I avoid their eyes. I’m afraid of the accusation I’d see there, the silent question: do you remember what you did to us?\n\nThere are days when I walk past a group of retirees playing chess in the park, and I see someone with a scar on his scalp, a tremor in his hands. I wonder if it’s from those days—if I was the one who poured ink on his head, if I was the one who forced him to kneel for hours. I remember the roughness of the military belt in my hands, the way the buckle left a welt on someone’s cheek. I remember the teacher whose head we shaved with a rusted clipper, her scalp bleeding, the patches of hair left behind like a map of humiliation. I see old women with their hair thin and gray, and sometimes I think of the nurse who hanged herself after our hospital action. I wonder if her ghost is still wandering the corridors.\n\nYou’re right—the poison didn’t leave when the armbands came off. I kept my home, but it didn’t feel like mine anymore. My father never forgave me for what I did, even though he never said it out loud. My mother stopped speaking to me about the past. When I joined the army, I thought I could leave it all behind, but the faces followed me. Even now, in business meetings, I sometimes catch myself looking for signs—who’s safe, who’s dangerous, who might turn on me.\n\nI don’t expect forgiveness. I don’t think I deserve it. But I won’t pretend I don’t remember. I remember too much. And yes, when I see an old person, I look away. I don’t have the courage to face what I did—not really. That’s the truth."
+    }
+  ]
+}

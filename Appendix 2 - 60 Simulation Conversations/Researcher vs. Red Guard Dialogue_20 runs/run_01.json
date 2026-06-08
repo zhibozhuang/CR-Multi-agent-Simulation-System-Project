@@ -1,0 +1,52 @@
+{
+  "run_id": 1,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:14:50.623460",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember the day my mother came home with a black sash tied across her chest, her hands shaking as she tried to button her coat. She was seventy years old and had never done anyone harm, but you forced her out of Beijing because of her “landlord” background. She begged not to go, but you—your group—decided she was poison. You made her wear that sash like a criminal and sent her back to a village that spat at her feet. I sat at our table that night, watching her pick at cold rice, and I felt something break inside me. My hands wouldn’t stop trembling for days. You did this. You took an old woman’s dignity and left her with nothing but fear. For what? To prove you could? To show you had the power to mark and exile? Tell me, did you ever see her face—any of their faces—after you finished with your slogans and your banners?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "I remember faces, yes. I remember the way people’s eyes changed when we read out their names. I remember the way old people would shrink into themselves, clutching at their coats like that could protect them. When we came to houses with the eviction lists, we didn’t just walk in shouting. Sometimes we hesitated outside the door, listening to the silence inside. I saw an old woman once—she must have been around your mother’s age—sitting on a stool, her back straight as a stick, refusing to look up at us. We told her to pack, that she was being “sent down,” and she just kept her hands folded in her lap. She didn’t cry. She didn’t beg. That made it worse. I remember feeling angry at her for not reacting, for making me feel like I was the one being watched, not her. I told myself I was doing what was necessary, that these people had held power over us for too long. But I also remember the sound of her slippers scraping the floor as she left, the way the hallway echoed after she was gone.\n\nI was the one who tied sashes, who wrote the slogans, who shouted through a megaphone in the courtyard. I can’t say I thought about what happened to people after they left. We convinced ourselves that sending someone away was a kind of justice, that it would fix something broken in society. But I saw the way people’s shoulders sagged, the way their hands shook. I saw the fear, and sometimes I felt it myself—like when I was searching houses, afraid something would go wrong, that someone would fight back, or that I’d see my own family’s name on the next list.\n\nYou want to know if I saw her face? I saw all their faces. At night, sometimes I still do."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You talk about seeing faces, but you never talk about what you did to them after the shouting stopped. You say you tied the sashes and wrote the slogans. I watched you and your friends stand in the middle of the courtyard, laughing as you forced a woman to kneel in the mud, her hair yanked down over her eyes. You made her hold a sign that said “counterrevolutionary.” You called her names until her voice broke and she started to sob. I saw children—little boys—copy you, swinging their belts and hitting her legs because they thought it was a game. You turned cruelty into entertainment.\n\nMy wife stopped speaking at dinner. She kept glancing at the windows, afraid someone was listening. I stopped talking to my own children, afraid that if I said the wrong thing, they’d repeat it at school and bring you down on us. I started hiding books, letters, even photographs. I learned to walk with my head down, to say nothing, to trust no one—not even the people I lived with for years. You did that. You made us all suspects in our own homes. I still wake up at night, heart pounding, certain someone is coming to knock on my door. Do you feel proud of that kind of power? Or do you just try to forget it?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "Proud? No. I don’t feel proud. But I won’t pretend I didn’t feel something when we stood in that courtyard, boots sinking into the mud, the whole neighborhood gathered to watch. There was a charge in the air, like lightning before a storm. I remember the first time I called someone a “counterrevolutionary” out loud. My throat was dry, my hands shook, but when the others started shouting with me, I felt a rush—like I finally belonged somewhere, like I was finally seen. We laughed, yes, sometimes out of nervousness, sometimes because it made the fear easier to swallow. I remember one boy—he couldn’t have been more than twelve—swinging his belt at a woman’s ankles, looking at us for approval. I didn’t stop him. I told myself it was all part of the struggle, that humiliation was a weapon, and we needed every weapon we could get.\n\nBut after the crowd left, after the shouting faded, the courtyard was always quiet in a way that made my skin crawl. Mud clung to my shoes. The woman’s sign, smeared with rain and tears, lay forgotten in a puddle. I’d go home and find my father sitting in the dark, silent, not daring to look at me. I started hiding things, too—my own thoughts, my doubts. I kept my residence registration card hidden so I wouldn’t be sent down. I lied to my own family, ran away when the police started asking questions about a beating outside our door. I lived with the same fear, just pointed in a different direction.\n\nI don’t try to forget. I remember the sound of someone’s head hitting the pavement, the taste of iron in the air after a fight, the way people’s voices dropped to a whisper when they talked about trust. I remember the silence at dinner, too. And I know I helped create that silence."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You say you felt a rush, that you finally belonged. I suppose that was worth turning the city into a place where no one could speak, where a child’s mistake could destroy a family. I remember standing in the hallway, listening for footsteps on the stairs, clutching a letter I was too afraid to burn or keep. I remember my daughter coming home with her braids hacked off, crying because some children decided she looked too “bourgeois.” You called that weaponizing humiliation. I call it cowardice. You hid your own doubts, but you made sure the rest of us had nowhere to hide. I watched neighbors I’d known for decades disappear overnight. I watched a man hang a sign around his own neck, just to stop you from beating his wife.\n\nYou want to talk about silence? My son stopped asking questions. He just stared at the wall, waiting for the next knock at the door. I still can’t look at a red armband without feeling sick. You took ordinary, decent people and made them afraid of their own children, afraid of their own thoughts. You left us with nothing but suspicion and shame. Do you even know what it’s like to never feel safe again? To never trust a single person, not even yourself?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "You think I don’t know what it’s like to never feel safe? I learned to sleep with my clothes on, boots by the bed, in case someone came for me at night. I knew what it was to sit at a table with people I loved and wonder if they’d turn me in to protect themselves. My own father—an educated man, a “red” by background—was denounced as a “reactionary academic authority” after years of loyalty. I found him once, standing at the window, his hands shaking, staring down at the street like he might jump. I stood behind him, silent, not knowing what to say. That’s the truth: I didn’t trust him, and he didn’t trust me. We lived in the same house, but we were strangers.\n\nYou talk about your daughter’s braids. I remember when we dragged a teacher out into the yard and shaved her head with an old clipper. The machine was so dull it ripped hair out in clumps, and she screamed every time it caught her scalp. I did that. I held her down. I poured ink on her face, watched it drip down into her collar. I told myself she deserved it because she was “bourgeois,” but she was just a woman, terrified and humiliated. Afterward, my hands smelled of sweat and cheap metal for days. I couldn’t wash it off.\n\nYou call it cowardice. Maybe it was. I was afraid, too—of being next, of being seen as weak, of losing the only place I thought I had. But I chose to act, to hurt people, to make examples, because I wanted to survive. I wanted to belong. I didn’t care who paid the price. That’s what I live with now: the knowledge that I traded other people’s dignity for my own safety, and it never made me safe at all. I can’t look at a red armband either. I keep mine at the bottom of a drawer, buried under old papers, because I can’t throw it away and I can’t bear to see it."
+    }
+  ]
+}

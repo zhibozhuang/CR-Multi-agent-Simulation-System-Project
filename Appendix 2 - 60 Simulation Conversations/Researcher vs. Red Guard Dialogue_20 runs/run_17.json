@@ -1,0 +1,52 @@
+{
+  "run_id": 17,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:28:04.798114",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember standing on the bus, clutching the metal pole, when a Red Guard—someone your age, in that armband—stopped a young man from offering his seat to an old woman. He barked, “What’s your family background?” She had to answer, in front of everyone, with her voice shaking. Only after she stammered out “poor peasant” did she get to sit. My mother, seventy years old, was forced out of Beijing and made to wear a black sash just because her father owned land. She was humiliated on the street, spat on, and called a criminal. You made old age a crime if the wrong words were attached to it. I watched children—your little followers—chase women with scissors, hacking at braids, laughing while grown women cried. I walked home every day afraid I’d find my own mother beaten, or that I’d be next. You did this. You turned respect into suspicion, and you made fear the air we breathed. Why did you need to see people broken before you believed in your own righteousness?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "You describe something I saw and did with my own hands. I remember the sound of those scissors—metal against hair, the sharp snap, the way the braids would fall in thick ropes onto the pavement. I remember the smell of sweat and fear in the air. When we stopped people on the street, we’d shout questions about their class background. Sometimes I was the one shouting. Sometimes I just watched, but I never stopped it. We were told again and again: the old world had to be smashed. “Don’t show mercy to the enemy,” they said. I believed it, or I wanted to believe it, because to hesitate was to be suspected yourself.\n\nI stood outside the hospital gate, armband tight around my sleeve, clipboard in hand, reading out names. I saw the terror on the faces of the older staff, the way their hands shook when they tried to answer. I didn’t feel powerful, not really. I felt relief that it wasn’t me in their place. I felt a sick sort of thrill when people obeyed my orders, but underneath, I was afraid all the time—afraid of being next, afraid of making a mistake, afraid of showing weakness.\n\nYou ask why we needed to see people broken. For me, it was proof that the world was changing, that we were doing something real. I didn’t stop to think about the cost. I didn’t care about your mother’s age, or her dignity. I cared about being right, about not being left behind, about not being the one wearing the black sash. I can’t undo what I did on those streets. I see those faces in my sleep sometimes—the old woman with cut hair, the teachers kneeling on broken glass, the hospital director shouting until his voice broke. I was part of making fear normal, and I can’t pretend otherwise."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You talk about fear like it was something that just landed on you, but you carried it into our homes and left it there. I remember the silence at our dinner table. My son, barely ten, wouldn’t speak above a whisper. He’d look at the door every time someone walked by in the corridor, thinking you or your friends would burst in and drag his father away. My wife hid my old university books in the walls, wrapped in cloth, because even a foreign novel was dangerous if you decided it was. We stopped talking about the past, about anything that mattered. You made every object suspect—a photograph, a keepsake, a letter. My hands shook every time I heard boots in the stairwell.\n\nAt work, you forced us to stand for hours, reading those slogans, staring at big-character posters with our names smeared in ink, accusations everywhere. I watched a colleague—he’d lost his wife the year before—forced to wear a dunce cap and parade in front of the whole institute. He never came back. You erased people, not just from their jobs, but from themselves. You took our trust in each other and smashed it. I want you to answer me this: when you saw us flinch, when you heard a child cry from behind a door, did you ever wonder what you were doing to us? Or did you just enjoy the sound of your own voice?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "I remember the sound of children crying behind doors. I remember the way voices would go quiet when we entered a building—like the air itself was holding its breath. When we did house searches, I saw the way people’s hands trembled as they opened drawers and handed over their books or photo albums. Sometimes I made a show of tossing things onto the floor, letting papers scatter, watching for that flinch. I told myself it was necessary, that every hidden object was a weapon against the revolution. But I can’t lie: sometimes I did it because I could. There was a rush in seeing adults—people older and more educated than me—forced to obey.\n\nAt the big-character poster wall, I remember reading out accusations, my voice cracking from shouting. I watched people wilt under the words, some trying to hold their heads up, others just staring at the ground. I saw the dunce caps, the ink running down faces, the humiliation. There were moments, late at night, when I wondered about the people we’d disappeared. There was a teacher at my old school—she always brought us sweets before all this. I helped shave her head, held her down when she fought back. I heard her sobbing, and for a second, I felt something twist inside me. But then the others were watching, and I pushed it away.\n\nI didn’t let myself dwell on the children crying or the families hiding books. I told myself it was weakness, that the real enemy was sentimentality. But sometimes, when the crowd thinned and the shouting stopped, I felt sick. I remember wiping ink off my hands after pouring it over someone’s face, the black stains under my fingernails. I didn’t enjoy the sound of my own voice as much as the silence that followed—proof that I was safe, for that moment, because someone else was the target. That’s the truth. I was afraid, and I made others afraid to protect myself. I can’t forgive myself for that, and I don’t expect you to."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You talk about protecting yourself, but you made sure none of us could protect anything—our families, our dignity, even our memories. You say you felt sick after the crowds went home, but we never got to leave the stage. The humiliation stuck. I still wake up sweating when I hear shouting in my dreams. My heart races if someone knocks too hard at the door. You made my children ashamed of their own names—afraid to say who their grandparents were, afraid to mention a book, afraid to trust a friend. You turned neighbors into spies and made every conversation a risk. Even now, decades later, I can’t sit at a dinner table with strangers without scanning for danger.\n\nYou talk about wiping ink from your hands. I watched a friend of mine—he was a scientist, a gentle man—dragged to the front of a crowd and forced to kneel until his knees bled. He never spoke again, not even to his own wife. You broke something in him that never healed. That’s what you did. You left scars that never close. You forced us to live in silence, to swallow every word, to teach our children to hide instead of speak. And for what? So you could feel safe for one more day? So you could belong to a crowd that vanished as soon as the wind changed? I want you to say it: what did you gain, in the end, from all this fear you spread?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "What did I gain? When I think back to those days, what comes to mind first isn’t pride or satisfaction—it’s the memory of standing in a burned-out classroom, my own hands black with soot from a pile of books we’d set alight. I remember the heat on my face, the way the paper curled and collapsed in the flames, the faces in the crowd half-lit by firelight. For a few hours, I felt like I belonged to something bigger than myself—like I was finally on the right side of history, no longer just the son of a cadre who was suddenly “black.” I gained a sense of safety, but it was hollow and temporary. Every night I checked my own door, afraid someone from another faction would come for me.\n\nI gained a kind of power, yes, but it was rooted in other people’s fear—your fear, your children’s fear, even my own family’s fear. I remember searching a neighbor’s apartment, ransacking drawers, finding a silk qipao hidden under the floorboards. She begged me not to take it—said it was her mother’s, all she had left. I took it anyway. I watched her sob as I tossed it on the pile. I felt a surge of control, but also disgust—at her, at myself, at the whole charade. That disgust never left me.\n\nWhen the crowds broke up, when the armbands got tucked away, all that was left was shame and suspicion. I lost friends. I lost any sense of trust in others. I even lost my father for a time—he tried to hang himself after being denounced in front of his colleagues. I stood there and did nothing. I gained nothing lasting except the memory of people’s eyes—hollowed out, watching me, waiting for mercy that never came.\n\nYou say you still scan for danger, still can’t speak freely. I know that feeling. I live with it too. What I gained was a life spent looking over my shoulder, and the knowledge that I helped build the world you describe—a world where silence is safer than truth. That’s what I carry. That’s what I earned."
+    }
+  ]
+}

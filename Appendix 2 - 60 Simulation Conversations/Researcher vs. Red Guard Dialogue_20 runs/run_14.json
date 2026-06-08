@@ -1,0 +1,52 @@
+{
+  "run_id": 14,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:25:35.596924",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember standing in the courtyard at dawn, clutching my bicycle because the buses were too packed with shouting teenagers in armbands. I had to ride through streets littered with torn books and broken furniture. Every wall was covered in those angry, dripping characters—accusations, threats, lists of names. At work, I sat on a hard bench while you and your friends screamed at our section chief, forced him to kneel, slapped him, called him “black element.” You made him wear a cardboard sign around his neck. I watched his hands shake so badly he couldn’t even hold his glasses. That day, I saw you spit in his face. You did that, and after, he never spoke above a whisper again. My colleagues stopped looking each other in the eye. At home, my mother wrapped her feet in rags and left for Hebei, head down, because your movement decided she was “filthy.” I hid the family photo albums under the floorboards. You turned neighbors into spies and children into bullies. You made us afraid to speak in our own kitchens. That is what you did. You turned every day into a test of how much humiliation a person could swallow without breaking."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "You want to know what I was thinking when I spat in his face. I remember the sweat on my palms and the taste of bile in my mouth. I was seventeen. The courtyard was packed, the air sour with fear and sweat. I remember the cardboard sign swinging on his chest, the black ink bleeding through. His glasses slid down his nose and I wanted to see him look up, to admit what we’d been told he’d done—hoarding books, saying the wrong things in meetings, born to the wrong parents. I shouted until my throat was raw. I spat because everyone else was watching, and because I thought if I hesitated, I’d be next. There was a moment—he looked at me, just for a second, and I saw how small he’d become. I hated that feeling, the power and the disgust tangled together. But I didn’t stop. Afterward, I felt nothing except relief that it wasn’t me kneeling.\n\nYou talk about neighbors turning into spies. I remember my own father coming home, silent, his face gray, after being called a “reactionary academic.” At night, I listened to my parents whisper behind the door, afraid someone would hear. We searched our own apartment for things that could get us in trouble. I led house searches, yes. I pried open drawers, confiscated photo frames, tore up letters. I told myself it was for the revolution, but really, I was terrified. Every day, I wondered if someone would turn on me. I didn’t think about your mother, or the way people started avoiding each other in the stairwell. I thought about survival. I made choices that stain my hands. I remember every face, every shout, every time my stomach twisted with fear and shame. I can’t undo it. I can only say I was there, and I did those things."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You talk about fear, but you got to be afraid while holding the whip. I was afraid with my back to the wall, counting cracks in the plaster so I wouldn’t meet anyone’s eyes. My children stopped laughing at home. My daughter hid her schoolbag under the bed because she was scared someone would find her old storybooks and call her a “poisonous weed.” At dinner, we chewed in silence, listening for footsteps on the stairs. I started sweating every time someone knocked at the door—even if it was just the neighbor’s kid, I thought it could be you, coming to search the apartment. You say you tore up letters. I burned mine, hands shaking, because I didn’t want your group to have an excuse to drag me out into the courtyard. You made us hide our faces and our memories. You made us lie to our own children, telling them not to speak, not to ask, not to dream too loudly. You want to talk about shame? Try carrying it for decades, knowing you never protected your family, only watched as you stripped them of dignity, day after day. Do you remember the old woman on the bus, the one who had to show her background before she could sit? That was your doing too. You turned compassion into a crime."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "You think I never saw the cost. I remember the old woman on the bus—her hands trembling as she unfolded that dirty slip of paper, the seat next to her empty even when the bus lurched and everyone else was pressed together. I was in uniform, armband tight, and people looked at me as if I could decide their fate with a glance. I did nothing for her. I watched her stand the whole ride, swaying, lips pressed thin. I told myself she must have done something to deserve it. That’s what we were told: if you were suffering, it meant you were guilty. That lie made it easier to look away.\n\nYou talk about your daughter hiding her schoolbag. I remember searching children’s rooms for “reactionary” books. I remember the weight of a schoolbag in my hands, the way a girl stared at the floor while I dumped her notebooks on the bed. She flinched when I touched her things. I didn’t care about the books—I was looking for something to justify my presence, to prove I was loyal. I didn’t think about what it meant for her, or her parents, or the way the whole family shrank into themselves after we left. I see that now. Back then, I felt like I was walking a tightrope over a pit, and the only way to keep from falling was to keep moving, keep accusing, keep my voice louder than my doubts.\n\nYou say I held the whip. Sometimes I did. Sometimes I was the one being watched, waiting for someone to whisper my name. My father was almost dragged out like yours. I shaved a teacher’s head with my own hands, the rusty clipper catching her scalp, because I was told she was a “ghost head.” She screamed. I kept going. I did it because I was ordered to, but also because I wanted to prove I belonged on the right side of the line. I see now how thin that line was—how easily it moved, how quickly it could swallow anyone. I don’t expect forgiveness. I live with the memory of every face, every scream, every silence that followed us home."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You talk about lines and tightropes, but you always had a crowd at your back, shouting your slogans, daring you to go further. I remember the struggle session at the university, the auditorium packed, the air thick with sweat and cigarette smoke. You and your friends dragged out a woman—her hair chopped uneven, old shoes strung around her neck. You jeered while she stood there, eyes swollen, mouth trembling. I saw you laugh as someone called her “filthy capitalist.” I saw you point at her when she tried to cover her face. Afterward, I watched her limp away, shoes scraping the floor, and I knew she would never come back to work. You destroyed her life in an afternoon, and you didn’t even look back.\n\nYou say you were searching for loyalty, but you turned cruelty into a contest. You made a game out of who could shout the loudest, who could break someone first. You want to talk about living with memories? I still hear the chants outside my window at night. My hands still shake when I hear raised voices. My son flinches whenever someone pounds on the door. You talk about shame, but you got to go home and eat and sleep, knowing the mob was on your side. For us, there was no safety, not even in our own beds. You marked us, and the mark never washed off. So tell me—when did you realize you’d stopped seeing us as people? Or did you ever?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "I remember that auditorium. The lights were too bright, hot on my face, and the smell of sweat and fear mixed with cheap tobacco. When we dragged her out, her knees buckled and she nearly fell. Someone shoved her upright. I remember the old shoes swinging from her neck, the way the crowd surged forward, shouting for her to confess. I did laugh. Not because I thought it was funny, but because the laughter was armor. If I laughed, I was safe. If I pointed, I was invisible. It was easier to look at her and see a symbol—a “capitalist,” a “bad element”—than to see a woman with a family, with a name. I didn’t want to see her as a person, because if I did, I’d have to admit what I was doing.\n\nThere was a moment—after she tried to cover her face and someone yanked her arm down—when her eyes met mine. She looked straight through me, as if I were nothing, or as if I was the one on trial. My stomach twisted. I turned away. I told myself she must have done something, that we were making the world clean. But the truth is, by then, I’d stopped seeing anyone as real. It was all noise and slogans and orders, and if I hesitated, the crowd would turn on me just as fast. I remember going home that night, hands still shaking, the jeers echoing in my ears. I didn’t sleep. I lay in bed, staring at the ceiling, replaying her face, the way she limped away. I tried to push it down, to drown it out with more shouting, more action. But it never really left me.\n\nYou say I got to go home and eat and sleep. I did. But I also remember the pounding in my chest every time someone knocked at our door, the way my mother flinched at footsteps in the hall. The mob was never really on anyone’s side for long. But you’re right: I had the power to choose, and I chose cruelty more than once. I chose to stop seeing people, because it was easier than seeing what I’d become. If I could take back that laughter, that pointing finger, I would. But I can’t. I see your mark, and I know I helped put it there."
+    }
+  ]
+}

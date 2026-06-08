@@ -1,0 +1,52 @@
+{
+  "run_id": 15,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:26:22.208067",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember the day you forced my mother, a woman in her seventies, to leave Beijing because her father was a landlord. You made her wear a black sash and walk through the station like a criminal. I watched her hands tremble as she packed, terrified and ashamed. She never spoke above a whisper after that. I see her eyes every time I try to sleep—empty, broken. You called this “revolutionary justice.” What you did was strip an old woman of her dignity and make her fear her own neighbors. I want to know if you ever saw what that did to people like her, or did you just look away?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "I stood in that station, clipboard in hand, watching lines of people like your mother shuffle past. I remember the smell of sweat and coal dust, the echo of announcements, the way the black sashes looked against faded winter coats. We were told to keep order, to make sure no one tried to slip away or hide. I saw the old ones—some barely able to walk—clutching cloth bundles, faces pale and drawn. I did not look away. I watched their eyes, darting or hollow, and sometimes I felt something twist in my gut. But I kept my face blank, because I thought that was strength.\n\nWhen your mother passed, I didn’t speak to her, but I saw her hands shake as she fumbled with her ticket. I heard people whisper behind her, calling her “landlord’s daughter,” “class enemy.” I wrote down her name, checked her off the list. There was a moment when she looked at me—her mouth moved, but no sound came out. I remember thinking she looked like someone already erased.\n\nBack then, I told myself it was necessary, that if I hesitated, someone would accuse me next. But I can’t forget those faces. I can’t forget the way some people never came back. I did not look away. I forced myself to watch, and sometimes I still see them at night, just like you do."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You talk about faces you can’t forget—let me remind you of one more. A young woman from my building, hair curled just once for a wedding photo, dragged into the courtyard by a pack of children you encouraged. You handed them scissors, told them to “destroy the four olds.” They hacked at her hair, called her a “monster,” and made her stand for hours with old shoes strung around her neck. She never married after that. She stopped leaving her room. The children bragged about it for weeks, and you stood there, arms crossed, watching, saying nothing. “Necessary,” you say. For what? All you taught those children was cruelty. You turned neighbors into spies, children into tormentors. At home, we stopped talking at dinner. My own daughter asked if she’d be dragged out next for wearing red socks. I wonder if you ever hear the silence you left behind, or if you just remember your own blank face."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "I remember that courtyard, the cracked cement, the smell of wet laundry and cabbage from someone’s window. The children were loud, half-laughing, half-shouting, their voices bouncing off the walls. I did hand them the scissors. I told them to cut away “bourgeois poison,” to show their loyalty. I watched the girl’s face as they yanked her head back, cut uneven chunks from her hair—her cheeks were streaked with tears and snot, but she didn’t cry out. She just stared straight ahead, jaw clenched. When they hung the shoes around her neck, I stood with my arms crossed, trying to look stern. My stomach was tight. I told myself it was a lesson for everyone, that if we didn’t act, someone would say we were protecting “bad elements.” I didn’t say a word to stop them.\n\nYou’re right about the children. Afterward, they looked at me differently—like I’d given them a prize. Some of them started copying the older Red Guards, swaggering around with homemade armbands, reporting on their own parents. I heard the silence in my own home, too. My father stopped playing the radio. My mother hid her Russian books in flour sacks. At night, we barely spoke, just chewed and swallowed and listened for footsteps in the hall. I knew what I was doing to others. I still did it. I thought if I kept moving, kept acting, the fear would stay outside. It never did. The silence stayed with me. It’s still there, sometimes, when I close my eyes."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You say you heard the silence, but you chose to fill the world with shouting anyway. I remember standing in the crowd at Beihang, watching you and your friends drag Wang Guangmei onto the stage, force her into a qipao, hang a necklace of ping-pong balls around her neck. You jeered and spat and called it “exposing the enemy.” I saw old scientists—men who’d spent their lives building this country—pushed to their knees, slapped until their faces swelled. You made us watch. You forced us to clap. I felt sick, but I clapped too, because I was afraid. Afterwards, I couldn’t look my colleagues in the eye. No one trusted anyone. We started hiding letters, burning photographs, sleeping with one ear open for the sound of boots in the hall. My hands still shake when I hear shouting in the street. You shattered something in us that has never healed. Did you ever wonder what it means to live with that kind of fear, day after day, year after year? Or did you just move on to the next target, satisfied that you’d done your duty?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "You mention Beihang—yes, I was there. I remember the swell of bodies in the auditorium, the hot, sour breath of the crowd, the way people pressed forward for a better view. I remember the qipao—someone found it in a confiscated trunk, and the ping-pong balls were strung together hastily, meant to mock her “bourgeois” tastes. I was one of those who shouted. I spat, too, my throat raw from chanting slogans. I remember feeling a surge of power, a trembling in my legs, thinking: I am finally doing something important. I looked at the scientists on stage—men with trembling hands, faces purple from slaps—and told myself this was justice, that their tears meant nothing compared to the suffering of the poor.\n\nBut when the shouting died down, and we filed out, I saw people’s faces—blank, averted, some streaked with tears they tried to hide. I saw colleagues who used to greet each other now passing in silence, clutching their bags, eyes fixed on the ground. I knew I’d forced people to clap, to shout, to betray themselves just to stay safe. Later, I burned a letter from my own uncle, terrified it would be found in a search. I stopped trusting even my closest friends. I checked the hallway every night before I slept, listening for footsteps, for a fist pounding the door.\n\nDid I move on to the next target? Sometimes, yes. Sometimes, I told myself I had no choice, that if I stopped, the same would happen to me. But it never left me. Even now, I flinch at sudden noises, at the sound of boots on tile. I see the faces of those I humiliated, and I know I can’t undo it. I never found satisfaction—only exhaustion, and a fear that clings even now."
+    }
+  ]
+}

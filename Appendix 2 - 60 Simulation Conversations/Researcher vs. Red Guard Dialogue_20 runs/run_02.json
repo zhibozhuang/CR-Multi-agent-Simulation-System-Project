@@ -1,0 +1,52 @@
+{
+  "run_id": 2,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:15:34.993775",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember standing on the Number 13 bus, gripping the metal pole so hard my knuckles hurt, while you and your friends blocked the aisle. An old woman, stooped and trembling, tried to board. Someone moved to offer her a seat, but you barked, “What’s her class background?” She stood there, clutching her bag, until you made her roll up her sleeve and show her black armband. She was a landlord’s wife, so you made her stand. I watched her eyes, empty and shamed. You turned kindness into a crime. Because of you, my own mother—seventy years old—was forced to shuffle back to Hebei, wearing a black sash, spat on by children. You made decency dangerous. I still flinch when someone raises their voice on public transport. My hands sweat every time I see a sash or armband, even now. You did that. You made fear the law."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "You talk about that bus — I can see it now, the sticky floor, the stale air, the way everyone stared at the ground. I remember that day. I was the one who stopped her at the door. My armband felt like a shield and a weapon at the same time. I asked for her class background because that’s what we were told to do — but I didn’t need orders to feel the power of it. When she hesitated, I barked at her. I wanted to see her tremble. I wanted everyone to see: the old rules were over. I made her stand there, holding her bag, and I watched the others shrink away from her like she was contagious. I remember thinking, “If I don’t do this, someone will turn on me next.” But that’s not the whole truth. I liked the feeling of control. I liked that people listened when I shouted.\n\nI saw people try to help her, and I shut it down. I told them, “You want to be next?” I remember how the bus jolted and she almost fell, but nobody caught her. I didn’t care then. I thought I was cleaning up the old filth.\n\nNow, when I ride a bus, I look at every old woman and wonder if she remembers me. My own mother was labeled later, after my father got denounced. She was made to sweep the street in front of our building. People spat at her, too. Did I think of that old woman then? No. I was too busy making sure I didn’t end up like her. But I can’t forget her face, or yours, or the way the air changed every time I walked onto a bus in that uniform. I did that. I made fear into law, like you said. And it stuck."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You talk about your armband like it was just cloth, but to me it was a threat. I remember the day I stopped wearing my watch, the one my father gave me. I hid it in a teapot because you people said it was “bourgeois.” My wife cried when I cut up our wedding photo—your friends were searching courtyards, burning anything that looked “old.” We ate in silence, every night, because you made every word dangerous. My children started whispering at the dinner table, afraid the neighbors would hear. My youngest asked me if we were “bad people” because we didn’t shout slogans loud enough. You made me lie to my own child.\n\nAnd don’t talk to me about fear. I watched you drag a girl from my work unit by her braid, parade her around with old shoes tied around her neck. She was nineteen. She never came back to work. You turned humiliation into a game. You made us watch, and if we looked away, you wrote our names down. Do you know what it’s like to see your colleagues’ faces every morning, knowing any one of them could betray you for a few words? I still can’t trust anyone. You did that. You broke the world inside my own home."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "You say the armband was a threat — it was, and I used it that way. When I tied it on, it was like armor. I felt untouchable, but also hunted. I remember the house searches: the smell of old wood and dust, the sharp taste of fear in the air. I burst into homes with a list in my hand, shouting for people to bring out “four olds.” I didn’t care if it was a watch, a photo, a letter from a father. I wanted to find something, anything, to prove I was on the right side. I remember smashing a porcelain vase — the sound was sharp, and everyone flinched. I wanted them to flinch. I told myself it was righteous, but I knew it was about control.\n\nI remember the girl you mention. She worked in the archives. I was the one who yanked her by the braid. Her hair was fine and soft, and it tangled in my fingers. She was small, and she cried out, but I kept pulling. I tied those shoes around her neck myself, knotted the laces so tight her face went red. I made her march in front of the building, and I shouted her “crimes” through a megaphone until my throat hurt. I wanted the others to see and to fear. I wrote down the names of anyone who looked away or didn’t clap. I thought that made me safe.\n\nBut you’re right — it was a game, and I played it. I liked the power, and I used it to make people afraid to breathe wrong. I saw families go silent, children stop laughing. I heard doors close softly at night, as if that could keep my kind out. That silence — I brought it into your home, and into my own. My younger brother started whispering, too, afraid I’d turn on him if he made a mistake. I broke something in him. I see it now, but then, I wouldn’t let myself care. I thought if I kept moving, kept shouting, maybe the fear wouldn’t catch me. But it did. I can’t trust anyone either, not really, not after what I did."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You say you can’t trust anyone now—good. Maybe that’s the only justice left. I still wake up some nights, heart pounding, because I hear shouting in my dreams. I see the courtyard, the crowd pressed shoulder to shoulder, everyone’s breath held. You called my supervisor up, made him kneel on broken bricks, forced him to confess to things he never did. His hair turned white in a month. I saw his hands shake so badly he couldn’t hold chopsticks. He killed himself the winter after. You wrote slogans on our walls in black paint—traitor, counterrevolutionary, poison. My children asked why our door was marked. I had no answer. I started hiding our family photos in the coal pile, praying no one would dig too deep.\n\nYou made us into ghosts in our own homes. You made every neighbor a potential informer. My wife stopped speaking to her oldest friend because she was afraid of being reported. Our building used to be noisy, full of laughter and quarrels. After you came, it was silent as a grave. You did that. You destroyed trust, not only between strangers, but between friends, between husband and wife, between parent and child. You turned Beijing into a city of locked doors and blank faces. Tell me, do you remember the first time you saw someone’s spirit break? Did you feel proud then? Or did you just feel nothing at all?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "I remember the first time I saw someone break. It was at the hospital, when we locked down the gates and dragged out the director and the others. We made them kneel in the courtyard, heads bowed, black placards hanging from their necks. The director tried to argue at first, but after an hour of shouting, slapping, and forcing him to stand in front of that bonfire, his voice just stopped. He stared at the flames, eyes unfocused, sweat and ash streaking his face. I watched his shoulders slump, his whole body fold in on itself. I felt a rush — not pride, not exactly, but something like satisfaction. Like I’d done what I was supposed to do, proven my loyalty, earned the right to keep wearing that armband. I told myself it was justice, but it was about making someone else smaller so I could feel bigger.\n\nLater that night, when we found the nurse who’d hanged herself, I felt nothing. I looked at her body, swinging gently from the pipe in the duty room, and I felt empty. I told the others, “She was weak, she deserved it.” I repeated that to myself, again and again, until it sounded true. But I still see her sometimes, the mark on her neck, the way her shoes dangled above the floor. I didn’t feel proud. I felt numb. That numbness spread — into my hands, my mouth, my chest. I beat people and poured ink on them, shaved their heads, and I felt less and less each time.\n\nYou talk about the silence in your building — I remember that silence. I remember painting those slogans on your wall, the brush heavy with thick black paint. The word “traitor” looked so final, so absolute. I wanted it to be a warning. I wanted to scare everyone inside. I did destroy trust. I did make people ghosts. I can’t undo it, and I can’t forget the way it felt to watch someone’s spirit break and feel nothing at all. That emptiness is still with me. Maybe it’s the only thing I really earned."
+    }
+  ]
+}

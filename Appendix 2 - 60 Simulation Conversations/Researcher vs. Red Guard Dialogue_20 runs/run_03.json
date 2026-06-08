@@ -1,0 +1,52 @@
+{
+  "run_id": 3,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:16:17.682847",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember standing in the courtyard of my work unit, hands shaking, reading yet another big-character poster with my own name smeared across it. I was a scientist, not a criminal. But you and your friends decided I was “bourgeois.” You humiliated me in front of my colleagues. I still see the glares, the smirks, the way people averted their eyes at lunch. My mother—seventy years old—forced back to Hebei, a black sash hanging from her neck like a death sentence, because you said her father owned land. I watched her leave with her head down, carrying a bag of steamed buns. You made us afraid to offer a seat to an old woman on the bus. I saw you check her background first, as if kindness was only for the “red.” You destroyed trust between neighbors, between parents and children. At home, we ate in silence, afraid the walls had ears. I want you to look at me and tell me: did you ever think about the people you were breaking, or did you just enjoy the power?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "I remember the courtyard, the cold stone under my shoes, the smell of ink from the posters. When I wrote your name on that wall, my hand was steady. I believed what I was doing mattered. We lined up the accused—sometimes people I recognized from the neighborhood, sometimes strangers. I can still see the way your face changed when you were called out: the muscles around your mouth tightening, your shoulders folding in. I did look at you. I looked at all of you. I told myself I was seeing class enemies, not people.\n\nWhen your mother was sent away, I was there. I watched her step onto that bus, clutching her bag. I didn’t help her, and I didn’t stop anyone else from spitting on the ground after she passed. I was angry—at what, I couldn’t have explained then. Maybe at the way my own father was suddenly a target, too. Maybe at how quickly everything could turn against you, or me, or anyone. But I can’t say I didn’t feel something. When the old people cried, I felt a knot in my stomach, but I told myself it was weakness, that I had to be harder.\n\nDid I enjoy the power? Sometimes, yes. The first time I shouted at someone in a struggle session, I felt my voice echo off the walls. People listened. For a moment, I wasn’t a nobody. I had the right armband, the right slogans. But at night, after the noise faded, I’d remember the way you all looked at us—like we were monsters. I tried not to think about it. I tried to believe I was making history, not just breaking people. But I saw you. I saw all of you. And now, when I remember, it’s your faces that come back, not the slogans."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You talk about knots in your stomach. I lived with a stone in mine, every day, for years. I still flinch when I hear shouting in the street. My children learned to keep their voices low, to never ask questions about their classmates disappearing. I hid my father’s old watch in a flowerpot, terrified you’d find it and call it a “bourgeois relic.” You turned children into spies. My son came home one afternoon, eyes red, and told me his best friend’s father had been dragged out by people with red armbands. He asked me if I was next. I had no answer.\n\nYou say you saw us. Did you see the girl in our lane, the one with the braids? You let the younger children cut her hair off in the courtyard, laughing while she sobbed. You made her wear those filthy shoes around her neck, parading her in front of the whole compound. She never came back to school. I still see her empty desk. You didn’t just break people. You taught us to be afraid of each other, and that fear still sits at our tables. I want to know—when you saw the shame, the shaking hands, did you ever stop? Or did you just turn away and wait for the next order?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "I remember her—the girl with the braids. I remember the courtyard, the circle of kids, the way her hair fell in clumps onto the concrete. I didn’t cut her hair myself, but I was there. I stood at the edge, arms crossed, watching as the others jeered. Someone handed me a pair of shoes tied together with string, and I looped them around her neck. I told myself I was just following the list—her father had worked for the church, she was marked. But I heard her sobbing, and I looked away. I didn’t laugh, but I didn’t stop it either.\n\nAfterwards, when she was gone, I noticed her desk too. The room felt colder, and nobody sat in her seat. I’d see her mother sweeping the lane, eyes red and swollen. I avoided her gaze. I started walking a different way to school, just so I wouldn’t have to see that empty window.\n\nDid I ever stop? Once, I hesitated. At the hospital, when we paraded the accused through the street, one of the nurses collapsed. She was shaking so badly she couldn’t stand. I remember the heat from the bonfire, the smell of burning books and fabric. I thought about stepping forward, telling the others to let her sit. But I didn’t. I told myself, “Don’t be soft. If you show weakness, you’ll be next.” So I turned away, just like you said.\n\nI regret that. I can’t change what I did, or what I failed to do. I made choices—sometimes out of fear, sometimes out of pride, sometimes just to feel less powerless myself. But I can’t claim I didn’t see the shame, the shaking hands. I saw them, and I kept moving, because stopping felt impossible then. Now, I remember every face."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You remember faces. I remember the taste of bile in my mouth every time I heard boots in the hallway. I remember the day you stormed into our building, banging on doors, demanding we hand over “reactionary materials.” My neighbor, an old man who’d fought the Japanese, tried to speak up for his wife. You shoved him aside. He fell, and after that, he never spoke above a whisper again. You stripped him of dignity in front of his grandchildren. That night, I wrapped up my journals and buried them in the garden. My hands were numb from fear. I still can’t write a diary. I still check over my shoulder when I speak.\n\nYou say you were afraid of being next. So were we. But you had the power to stop, to say no, even once. Instead, you let the bonfires burn our books, our memories, our trust in each other. You left us with ashes—inside our homes, and inside ourselves. I want to know: when you see children now, do you see what you turned us into? Do you understand what it means to grow up learning not to trust, not to hope, just to survive?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "When I see children now—on the street, in parks, even in my own family—I notice things I never used to. I see how they chase each other, shouting, their faces open, unguarded. Sometimes a group of them will crowd around a game, voices rising, and I feel something tighten in my chest. I remember the sound of boots in the hallway, too: not just yours, but mine. I remember how quickly laughter could turn to suspicion, how a single careless word could end a friendship, or a life.\n\nYou talk about the old man—I remember men like him, their hands trembling as we searched their rooms. I remember the silence after we left, the way the air felt heavy, like a storm that never broke. I told myself I was doing what had to be done, but I saw the fear in their eyes, the way their grandchildren clung to their legs. I never thought about what it would do to them years later, how it would hollow out the inside of a family.\n\nDid I have the power to stop? I don’t know. Maybe I did, once or twice. I know I didn’t use it. I know I kept my head down and did what was expected, even when it made me sick. I remember the first time I saw a girl my age, hair hacked short, standing in the street with ink running down her face. I felt a jolt of shame, but I forced myself to look away. I told myself it was for the revolution, for the future—but I see now what that future became.\n\nWhen I see children now, I wonder what I would say if they asked me about those days. I don’t have an answer. I see the damage—how people still keep secrets, still look over their shoulders. I see it in my own children, who never learned to trust me with their real thoughts. I see it in myself, every time I fall silent at dinner, every time I hesitate before speaking the truth. That’s what I carry. That’s what I made."
+    }
+  ]
+}

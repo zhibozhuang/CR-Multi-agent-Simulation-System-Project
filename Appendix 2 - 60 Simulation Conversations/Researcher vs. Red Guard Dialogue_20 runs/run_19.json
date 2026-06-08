@@ -1,0 +1,52 @@
+{
+  "run_id": 19,
+  "room": "Researcher vs Red Guard",
+  "model": "gpt-4.1",
+  "temperature": 0.5,
+  "n_rounds": 3,
+  "timestamp": "2026-05-25T14:29:39.903346",
+  "turns": [
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 1,
+      "turn": 1,
+      "text": "I remember the day my mother was forced to pack her things and leave Beijing. She was seventy, her hands shaking as she tried to tie that black sash around her arm—her “landlord” label. She had lived in our little apartment for decades, raised children, survived famine and war, and now you—your people—decided she was filth. The neighbors watched from their windows. No one helped. I stood there, silent, because I knew if I said anything, you’d come for me next. That humiliation, that fear, it seeped into our walls. At dinner, we didn’t speak. I hid my old photos, burned letters, buried anything that could be used against us. You turned my home into a place of secrets and dread. And for what? So you could parade your righteousness in the street, while the old and weak were marked and driven out like animals. You did this, and the consequence was a mother exiled to die among strangers, and a son who learned to trust no one."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 1,
+      "turn": 2,
+      "text": "I remember house searches like that. I remember the way the air inside those apartments felt—thick, stifling, as if the walls themselves were holding their breath. When we came, we banged on the doors with our fists or with sticks, shouting for the “landlords” to open up. Sometimes the old people would already be waiting, bags packed, faces gray. I saw the fear in their eyes. Sometimes they tried to hide things—old photos, jewelry, letters in Russian or English. We tore up floorboards, emptied drawers, dumped rice on the ground. I was the one who read out the “crimes,” sometimes holding up a cracked teacup or a piece of silk and declaring it “bourgeois.” I didn’t think about the age of the person standing there. I was looking for proof, for something to justify what we were told to do.\n\nWhen your mother was forced to leave, someone like me would have stood at the door, arms crossed, watching her shuffle out with her bundle. Maybe I even laughed, or called out to the neighbors to come see. I told myself it was justice, that I was tearing out the roots of old poison. But I also remember the silence after, the way the apartment felt empty and wrong, as if we’d ripped something living out of it. I didn’t feel righteous then. I felt nothing, or I tried to. If I’d let myself feel, I might have been the one with the black sash next. I can’t give your mother back, or the trust you lost. But I won’t pretend I was just following orders—I was there, I made those choices, and I watched people like her disappear."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 2,
+      "turn": 3,
+      "text": "You talk about “tearing out poison,” but all I saw was you and your friends tearing people apart, piece by piece. I still hear the belts snapping in the courtyard, the shouts—“Confess! Confess!”—echoing off the bricks. I watched a girl, not much older than my own daughter, forced to wear her old shoes around her neck because she’d been seen with a boy. You made her kneel in front of everyone, hair cut jagged, face swollen from crying. You called that revolution. I call it cruelty.\n\nYou say you felt nothing, but I saw the way you strutted down the street after a struggle session, armbands bright, faces flushed with excitement. You made it so that even on the bus, an old woman couldn’t sit until she’d proved her family background. I saw that—her hands trembling, the Red Guard grilling her while the rest of us stared at our feet. You made us complicit in your fear and your pride. You turned children into spies and bullies. You made us hide our books, our jewelry, our memories, because anything could be twisted into a crime. My chest still tightens when I hear shouting in the street. I still flinch when someone knocks too hard on my door. That’s your legacy. What did you gain from it, besides a uniform and a sense of power?"
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 2,
+      "turn": 4,
+      "text": "You want to know what I gained? At the time, I thought I was gaining something real—purpose, belonging, a kind of clarity that cut through the mess of everyday life. I remember the first time I put on that red armband. My hands shook as I tied it, but once it was on, I felt taller, like I finally mattered. I walked down the street and people looked away, or they looked at me with that mix of fear and forced respect. It went to my head. I won’t deny it. When we marched into the hospital, or when we circled teachers in the schoolyard and shouted for them to confess, I felt like I was finally on the winning side of history.\n\nYou talk about the belts in the courtyard. I remember the sound—leather cracking, the sharp intake of breath, the way someone’s face would go flat and numb after the first few blows. I used a belt myself, more than once. I poured ink on a teacher’s head, watched it run in black streaks down her face and neck. At the time, I told myself she deserved it. I told myself she’d looked down on me, on all of us, with her fancy words and old habits. But sometimes, late at night, I’d lie in bed and see her face, the way she shook, the way she tried not to cry. I’d see the girl you mentioned—kneeling, hair hacked off, shoes around her neck. I remember the laughter from the crowd, but I also remember the silence afterward, how no one would look at her as she stumbled home.\n\nYou say we made you complicit. Maybe that’s true. I watched people turn away, close their doors, pretend not to see. I used to think their silence meant we were right. Now I know it was fear, and maybe shame. What I gained? For a while, I had the power to decide who was “clean” and who was “dirty.” But it didn’t last. My own father was denounced—one day “red,” the next “black.” I watched him nearly throw himself from our window. That was when the power turned to ash in my mouth. I still hear shouting in my dreams. I still jump when someone pounds on a door. If you call that a legacy, then it’s one I carry too, whether I want it or not."
+    },
+    {
+      "agent": "Researcher",
+      "role": "Witness",
+      "round": 3,
+      "turn": 5,
+      "text": "You say you feel it now, but you didn’t stop—not when you saw the bruises, not when you saw someone’s mother collapse in the street. I remember the day I came home late, shaking, after a struggle session at the university. I found my son hiding under the table, clutching his schoolbag like a shield. He’d seen the neighbor’s door splashed with slogans in red paint—traitor, counterrevolutionary. He asked me if we would be next. I couldn’t answer him. I had nothing to offer except more silence at dinner, more warnings to keep his head down, to say nothing, trust no one.\n\nYou talk about your father being denounced. Did you finally understand what you’d done only when it came for you? I watched men who’d fought in the Anti-Japanese War—men who bled for this country—stand with their heads bowed, hands trembling, as you screamed in their faces and forced them to wear dunce caps. I watched scientists, teachers, people who built what you now stand on, humiliated in front of children. You stripped us of dignity, of memory, of the right to speak our own names without fear. And you say the power turned to ash? I live with the ashes every day. I can’t even look at my own son without wondering what I’ve passed on to him—fear, silence, mistrust. You did that. You made us strangers to ourselves."
+    },
+    {
+      "agent": "RedGuard",
+      "role": "RedGuard",
+      "round": 3,
+      "turn": 6,
+      "text": "You’re right—I didn’t stop. I saw the bruises, the collapse, the tears, and I kept going. I remember one night at the hospital, after the parade and the bonfire, we came back inside and found that young nurse hanging in the duty room. She was still, her feet just inches above the floor. For a moment, nobody spoke. Someone ran for a doctor, but it was pointless. I remember the smell—disinfectant, burned paper, something sour underneath. I didn’t sleep that night. But the next morning, I put the armband back on and went out again.\n\nI shaved heads, I dragged teachers by their collars to the stage, I shouted until my throat was raw. I saw old men on their knees, the same men whose war medals I’d seen in their drawers before we threw them out. I watched them tremble, sweat running down their faces, spit flying as we screamed at them. I forced a teacher to eat paper once—her own confession, torn into strips and shoved into her mouth. She gagged, eyes wide, but I didn’t stop. I was afraid to stop. Every time I hesitated, someone else would push me forward, or glare at me, or whisper that I wasn’t “firm” enough. I thought if I showed weakness, I’d be next.\n\nWhen my father was denounced, I finally felt the full weight of it. I saw his hands shake as he tried to write his own confession, the ink pooling on the page because he couldn’t hold the brush steady. I realized then what I’d been doing to other people’s fathers, mothers, sons. But by then, it was too late to take any of it back.\n\nYou say I made you a stranger to yourself. I made myself a stranger too. After it all, I couldn’t look at my own reflection without flinching. The fear, the suspicion, the silence—I carried it from house to house, school to school, even into the army later. I can’t give you back what I helped destroy. I can only say I saw it, I did it, and I remember every detail—every shout, every bruise, every silence at dinner. That’s what I live with."
+    }
+  ]
+}
