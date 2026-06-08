@@ -24,4 +24,4 @@ The main materials are organized as appendices:
   Quantitative evaluation results assessing the consistency of simulation outputs across three large language models (GPT, Claude, and DeepSeek-Chat).
 
 - **Appendix 7:  All Codes Used for Quantitative Analysis**  
-  All three Jupyter notebooks used for quantitative analysis: (1) consistency evaluation for OpenAI-generated simulations; (2) consistency evaluation for Claude-generated simulations; and (3) consistency evaluation for DeepSeek-generated simulations.
+  All three Jupyter notebooks used for quantitative analysis: (1) consistency evaluation for OpenAI-generated simulations, frequency table and LDA topic modeling; (2) consistency evaluation for Claude-generated simulations; and (3) consistency evaluation for DeepSeek-generated simulations.
